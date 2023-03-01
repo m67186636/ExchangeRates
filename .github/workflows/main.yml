@@ -11,8 +11,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          mkdir /application
-          cd /application
           git clone ${{ secrets.PROJECT_SOURCE_GIT_URL }} source
           git clone ${{ secrets.PROJECT_TARGET_GIT_URL }} target
       
@@ -23,8 +21,8 @@ jobs:
         
       - name: Execute Update
         run: |
-          dotnet run /application/source/
-          cd /application/target
+          dotnet run source/
+          cd target
           git commit -a -m "Add changes" 
           
 
