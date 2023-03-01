@@ -21,7 +21,7 @@ jobs:
         
       - name: Execute Update
         run: |
-          dotnet run source/
+          dotnet run ./source/
           cd target
           git commit -a -m "Add changes" 
           
