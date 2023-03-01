@@ -24,7 +24,7 @@ jobs:
           cd source
           dotnet run
           cd .\target
-          git commit -a -m "Add changes"
+          git commit -a -m "Add changes" 
           
 
       - name: Push changes
