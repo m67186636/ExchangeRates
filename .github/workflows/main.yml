@@ -1,4 +1,4 @@
-name: update 
+name: update
 on:
   schedule:
     - cron: '*/5 * * * *'
@@ -23,8 +23,7 @@ jobs:
         run: |
           dotnet run --project source
           cd target
-          git commit -a -m "Add changes" 
-          
+          git commit -a -m "Add changes"          
 
       - name: Push changes
         uses: ad-m/github-push-action@master
