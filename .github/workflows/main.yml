@@ -12,7 +12,7 @@ jobs:
           git clone ${{ secrets.PROJECT_SOURCE_GIT_URL }} source
           git clone ${{ secrets.PROJECT_TARGET_GIT_URL }} target
       
-      - name: Setup .NET Core SDK      
+      - name: Setup .NET Core SDK
         uses: actions/setup-dotnet@v3.0.3
         with:
           dotnet-version: 6.0
