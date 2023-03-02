@@ -22,7 +22,7 @@ jobs:
           cd target
           git config --local user.email "m67186636@gmail.com"
           git config --local user.name "m67186636"
-          git commit -a -m "Add changes"          
+          git commit -a -m "Update All Exchange Rate"          
 
       - name: Push changes
         uses: ad-m/github-push-action@master
