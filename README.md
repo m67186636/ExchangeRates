@@ -1,5 +1,6 @@
 
 [commit-shield]: https://img.shields.io/github/last-commit/m67186636/ExchangeRates?style=flat&logo=github
+[commit-url]: https://github.com/m67186636/ExchangeRates/commits/main
 
 # ExchangeRates 💰 💵 💶 💴
 
