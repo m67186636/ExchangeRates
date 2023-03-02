@@ -6,8 +6,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Commit files
-        run: |
+      - name: Clone Repositories
+        uses: actions/checkout@v3
+        with:
+          repository: m67186636/ExchangeRateWorkflow
+          path: source
+          token: ${{secrets.GITHUB_TOKEN}}
+          
+      - name: Clone Repositories
+        uses: actions/checkout@v3
+        with:
+          path: target
+          
+    
+      - run: |
           git clone ${{ secrets.PROJECT_SOURCE_GIT_URL }} source
           git clone ${{ secrets.PROJECT_TARGET_GIT_URL }} target
       
