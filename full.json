@@ -1,1 +1,998 @@
-{"Date":"2023-03-02","MainCurrency":"USD","Datas":[{"Rate":3.673,"CurrencyCode":"AED","EnglishName":"United Arab Emirates Dirham","NativeName":"درهم إماراتي,United Arab Emirates Dirham","ChineseName":"阿联酋迪拉姆","LastUpdate":"2023-03-02T16:50"},{"Rate":108.320567,"CurrencyCode":"ALL","EnglishName":"Albanian Lek","NativeName":"Leku shqiptar","ChineseName":"阿尔巴尼亚列克","LastUpdate":"2023-03-02T16:50"},{"Rate":388.95,"CurrencyCode":"AMD","EnglishName":"Armenian Dram","NativeName":"հայկական դրամ","ChineseName":"亚美尼亚德拉姆","LastUpdate":"2023-03-02T16:50"},{"Rate":1.802564,"CurrencyCode":"ANG","EnglishName":"Netherlands Antillean Guilder","NativeName":"Netherlands Antillean Guilder,Nederlands-Antilliaanse gulden","ChineseName":"荷属安的列斯盾","LastUpdate":"2023-03-02T16:50"},{"Rate":503.79,"CurrencyCode":"AOA","EnglishName":"Angolan Kwanza","NativeName":"Kwanza ya Angóla,kwanza angolano","ChineseName":"安哥拉宽扎","LastUpdate":"2023-03-02T16:50"},{"Rate":197.895045,"CurrencyCode":"ARS","EnglishName":"Argentine Peso","NativeName":"peso argentino","ChineseName":"阿根廷比索","LastUpdate":"2023-03-02T16:50"},{"Rate":1.487765,"CurrencyCode":"AUD","EnglishName":"Australian Dollar","NativeName":"Australian Dollar","ChineseName":"澳大利亚元","LastUpdate":"2023-03-02T16:50"},{"Rate":1.7,"CurrencyCode":"AZN","EnglishName":"Azerbaijani Manat","NativeName":"AZN,Azərbaycan Manatı","ChineseName":"阿塞拜疆马纳特","LastUpdate":"2023-03-02T16:50"},{"Rate":2.0,"CurrencyCode":"BBD","EnglishName":"Barbadian Dollar","NativeName":"Barbadian Dollar","ChineseName":"巴巴多斯元","LastUpdate":"2023-03-02T16:00"},{"Rate":104.57795354,"CurrencyCode":"BDT","EnglishName":"Bangladeshi Taka","NativeName":"বাংলাদেশী টাকা,𑄝𑄁𑄣𑄘𑄬𑄥𑄨 𑄑𑄬𑄋","ChineseName":"孟加拉塔卡","LastUpdate":"2023-03-02T16:00"},{"Rate":1.84441,"CurrencyCode":"BGN","EnglishName":"Bulgarian Lev","NativeName":"Български лев","ChineseName":"保加利亚列弗","LastUpdate":"2023-03-02T16:50"},{"Rate":0.377031,"CurrencyCode":"BHD","EnglishName":"Bahraini Dinar","NativeName":"دينار بحريني","ChineseName":"巴林第纳尔","LastUpdate":"2023-03-02T16:50"},{"Rate":2062.0,"CurrencyCode":"BIF","EnglishName":"Burundian Franc","NativeName":"Burundian Franc,franc burundais,Ifaranga ry’Uburundi","ChineseName":"布隆迪法郎","LastUpdate":"2023-03-02T16:50"},{"Rate":1.0,"CurrencyCode":"BMD","EnglishName":"Bermudan Dollar","NativeName":"Bermudian Dollar","ChineseName":"百慕大元","LastUpdate":"2023-03-02T16:00"},{"Rate":1.347949,"CurrencyCode":"BND","EnglishName":"Brunei Dollar","NativeName":"Dolar Brunei","ChineseName":"文莱元","LastUpdate":"2023-03-02T16:50"},{"Rate":6.93177483,"CurrencyCode":"BOB","EnglishName":"Bolivian Boliviano","NativeName":"boliviano,Boliviano","ChineseName":"玻利维亚币","LastUpdate":"2023-03-02T16:00"},{"Rate":5.2029,"CurrencyCode":"BRL","EnglishName":"Brazilian Real","NativeName":"real brasileño,Real brasileiro","ChineseName":"巴西雷阿尔","LastUpdate":"2023-03-02T16:50"},{"Rate":1.0,"CurrencyCode":"BSD","EnglishName":"Bahamian Dollar","NativeName":"Bahamian Dollar","ChineseName":"巴哈马元","LastUpdate":"2023-03-02T16:00"},{"Rate":13.230036,"CurrencyCode":"BWP","EnglishName":"Botswanan Pula","NativeName":"Botswanan Pula","ChineseName":"博茨瓦纳普拉","LastUpdate":"2023-03-02T16:50"},{"Rate":2.524593,"CurrencyCode":"BYN","EnglishName":"Belarusian Ruble","NativeName":"беларускі рубель,белорусский рубль","ChineseName":"白俄罗斯卢布","LastUpdate":"2023-03-02T16:50"},{"Rate":2.0,"CurrencyCode":"BZD","EnglishName":"Belize Dollar","NativeName":"Belize Dollar,dólar beliceño","ChineseName":"伯利兹元","LastUpdate":"2023-03-02T16:00"},{"Rate":1.360854,"CurrencyCode":"CAD","EnglishName":"Canadian Dollar","NativeName":"Canadian Dollar,dollar canadien","ChineseName":"加拿大元","LastUpdate":"2023-03-02T16:50"},{"Rate":0.941888,"CurrencyCode":"CHF","EnglishName":"Swiss Franc","NativeName":"Schweizer Franken,Swiss Franc,franc suisse,Schwiizer Franke,franco svizzero,franco suíço,franc svizzer,CHF","ChineseName":"瑞士法郎","LastUpdate":"2023-03-02T16:50"},{"Rate":813.77,"CurrencyCode":"CLP","EnglishName":"Chilean Peso","NativeName":"Peso chileno","ChineseName":"智利比索","LastUpdate":"2023-03-02T16:50"},{"Rate":6.9153,"CurrencyCode":"CNY","EnglishName":"Chinese Yuan","NativeName":"ཡུ་ཨན་,CNY,جۇڭگو يۈەنى,人民币","ChineseName":"人民币","LastUpdate":"2023-03-02T16:50"},{"Rate":4844.247028,"CurrencyCode":"COP","EnglishName":"Colombian Peso","NativeName":"peso colombiano","ChineseName":"哥伦比亚比索","LastUpdate":"2023-03-02T16:50"},{"Rate":558.456343,"CurrencyCode":"CRC","EnglishName":"Costa Rican Colón","NativeName":"colón costarricense","ChineseName":"哥斯达黎加科郎","LastUpdate":"2023-03-02T16:50"},{"Rate":24.0,"CurrencyCode":"CUP","EnglishName":"Cuban Peso","NativeName":"peso cubano","ChineseName":"古巴比索","LastUpdate":"2023-03-02T16:00"},{"Rate":104.45,"CurrencyCode":"CVE","EnglishName":"Cape Verdean Escudo","NativeName":"Skudu Kabuverdianu,escudo cabo-verdiano","ChineseName":"佛得角埃斯库多","LastUpdate":"2023-03-02T16:50"},{"Rate":22.144,"CurrencyCode":"CZK","EnglishName":"Czech Koruna","NativeName":"česká koruna","ChineseName":"捷克克朗","LastUpdate":"2023-03-02T16:50"},{"Rate":178.05,"CurrencyCode":"DJF","EnglishName":"Djiboutian Franc","NativeName":"فرنك جيبوتي,franc djiboutien,Faran Jabuuti","ChineseName":"吉布提法郎","LastUpdate":"2023-03-02T16:50"},{"Rate":7.023375,"CurrencyCode":"DKK","EnglishName":"Danish Krone","NativeName":"dansk krone,Danish Krone,donsk króna,DKK","ChineseName":"丹麦克朗","LastUpdate":"2023-03-02T16:50"},{"Rate":55.45,"CurrencyCode":"DOP","EnglishName":"Dominican Peso","NativeName":"peso dominicano","ChineseName":"多米尼加比索","LastUpdate":"2023-03-02T16:50"},{"Rate":136.666496,"CurrencyCode":"DZD","EnglishName":"Algerian Dinar","NativeName":"دينار جزائري,dinar algérien,Adinar Azzayri","ChineseName":"阿尔及利亚第纳尔","LastUpdate":"2023-03-02T16:50"},{"Rate":30.7765,"CurrencyCode":"EGP","EnglishName":"Egyptian Pound","NativeName":"جنيه مصري","ChineseName":"埃及镑","LastUpdate":"2023-03-02T16:50"},{"Rate":53.75,"CurrencyCode":"ETB","EnglishName":"Ethiopian Birr","NativeName":"የኢትዮጵያ ብር,Itoophiyaa Birrii,Birta Itoobbiya,ብር","ChineseName":"埃塞俄比亚比尔","LastUpdate":"2023-03-02T16:50"},{"Rate":0.943831,"CurrencyCode":"EUR","EnglishName":"Euro","NativeName":"euro,Euro,Ευρώ,euroa,Euras,eiro,ewro,èuro,evro,Euroja,Евро,Evro","ChineseName":"欧元","LastUpdate":"2023-03-02T16:50"},{"Rate":2.2154,"CurrencyCode":"FJD","EnglishName":"Fijian Dollar","NativeName":"Fijian Dollar","ChineseName":"斐济元","LastUpdate":"2023-03-02T16:50"},{"Rate":0.837384,"CurrencyCode":"GBP","EnglishName":"British Pound","NativeName":"Punt Prydain,British Pound,UK Pound,Punt Steirling,Punnd Sasannach,GBP","ChineseName":"英镑","LastUpdate":"2023-03-02T16:50"},{"Rate":2.605,"CurrencyCode":"GEL","EnglishName":"Georgian Lari","NativeName":"ქართული ლარი,Лар","ChineseName":"格鲁吉亚拉里","LastUpdate":"2023-03-02T16:50"},{"Rate":12.85,"CurrencyCode":"GHS","EnglishName":"Ghanaian Cedi","NativeName":"Ghana Sidi,ghana siɖi,Ghanaian Cedi,𞤅𞤭𞤣𞤭 𞤘𞤢𞤲𞤢𞤲𞤳𞤮,GHS,Sidi na Ghana","ChineseName":"加纳塞地","LastUpdate":"2023-03-02T16:50"},{"Rate":61.05,"CurrencyCode":"GMD","EnglishName":"Gambian Dalasi","NativeName":"Gambian Dalasi,𞤁𞤢𞤤𞤢𞤧𞤭 𞤘𞤢𞤥𞤦𞤭𞤲𞤳𞤮,Dalasi Gammbi","ChineseName":"冈比亚达拉西","LastUpdate":"2023-03-02T16:50"},{"Rate":8800.0,"CurrencyCode":"GNF","EnglishName":"Guinean Franc","NativeName":"𞤊𞤢𞤪𞤢𞤲 𞤘𞤭𞤲𞤫𞤲𞤳𞤮,GNF,franc guinéen","ChineseName":"几内亚法郎","LastUpdate":"2023-03-02T16:50"},{"Rate":7.811394,"CurrencyCode":"GTQ","EnglishName":"Guatemalan Quetzal","NativeName":"quetzal","ChineseName":"危地马拉格查尔","LastUpdate":"2023-03-02T16:50"},{"Rate":7.849644,"CurrencyCode":"HKD","EnglishName":"Hong Kong Dollar","NativeName":"Hong Kong Dollar,港幣,港元","ChineseName":"港元","LastUpdate":"2023-03-02T16:50"},{"Rate":24.66,"CurrencyCode":"HNL","EnglishName":"Honduran Lempira","NativeName":"lempira hondureño","ChineseName":"洪都拉斯伦皮拉","LastUpdate":"2023-03-02T16:50"},{"Rate":7.110114,"CurrencyCode":"HRK","EnglishName":"Croatian Kuna","NativeName":"hrvatska kuna","ChineseName":"克罗地亚库纳","LastUpdate":"2023-03-02T16:50"},{"Rate":151.026996,"CurrencyCode":"HTG","EnglishName":"Haitian Gourde","NativeName":"gourde haïtienne","ChineseName":"海地古德","LastUpdate":"2023-03-02T16:50"},{"Rate":355.084234,"CurrencyCode":"HUF","EnglishName":"Hungarian Forint","NativeName":"magyar forint","ChineseName":"匈牙利福林","LastUpdate":"2023-03-02T16:50"},{"Rate":15318.938725,"CurrencyCode":"IDR","EnglishName":"Indonesian Rupiah","NativeName":"Rupiah Indonesia,Rupee Indonésia","ChineseName":"印尼盾","LastUpdate":"2023-03-02T16:50"},{"Rate":3.66187,"CurrencyCode":"ILS","EnglishName":"Israeli New Shekel","NativeName":"شيكل إسرائيلي جديد,Israeli New Shekel,שקל חדש","ChineseName":"以色列新谢克尔","LastUpdate":"2023-03-02T16:50"},{"Rate":82.352692,"CurrencyCode":"INR","EnglishName":"Indian Rupee","NativeName":"ভাৰতীয় ৰুপী,ভারতীয় রুপি,རྒྱ་གར་སྒོར་,रां,𑄃𑄨𑄚𑄴𑄘𑄨𑄠𑄚𑄴 𑄢𑄪𑄛𑄨,भारती रपेऽ,Indian Rupee,ભારતીય રૂપિયા,भारतीय रुपया,ಭಾರತೀಯ ರೂಪಾಯಿ,ہِندُستٲنۍ رۄپَے,ഇന്ത്യൻ രൂപ,ইন্দিয়ান রুপী,भारतीय रूपिँया,ଭାରତୀୟ ଟଙ୍କା,ਭਾਰਤੀ ਰੁਪਇਆ,भारतीय रूप्यकम्,ᱥᱤᱧᱚᱛ ᱨᱮᱱᱟᱜ ᱴᱟᱠᱟ,हिंदुस्तानी रुपयो,இந்திய ரூபாய்,భారతదేశ రూపాయి,بھارتی روپیہ","ChineseName":"印度卢比","LastUpdate":"2023-03-02T16:50"},{"Rate":1460.5,"CurrencyCode":"IQD","EnglishName":"Iraqi Dinar","NativeName":"دينار عراقي,IQD","ChineseName":"伊拉克第纳尔","LastUpdate":"2023-03-02T16:50"},{"Rate":42275.0,"CurrencyCode":"IRR","EnglishName":"Iranian Rial","NativeName":"IRR,ریال ایران,ایران ریال","ChineseName":"伊朗里亚尔","LastUpdate":"2023-03-02T16:50"},{"Rate":142.62,"CurrencyCode":"ISK","EnglishName":"Icelandic Króna","NativeName":"íslensk króna","ChineseName":"冰岛克朗","LastUpdate":"2023-03-02T16:50"},{"Rate":154.022862,"CurrencyCode":"JMD","EnglishName":"Jamaican Dollar","NativeName":"Jamaican Dollar","ChineseName":"牙买加元","LastUpdate":"2023-03-02T16:50"},{"Rate":0.7094,"CurrencyCode":"JOD","EnglishName":"Jordanian Dinar","NativeName":"دينار أردني","ChineseName":"约旦第纳尔","LastUpdate":"2023-03-02T16:50"},{"Rate":136.78359091,"CurrencyCode":"JPY","EnglishName":"Japanese Yen","NativeName":"日本円","ChineseName":"日元","LastUpdate":"2023-03-02T16:50"},{"Rate":127.6,"CurrencyCode":"KES","EnglishName":"Kenyan Shilling","NativeName":"Shilingi ya Kenya,Kenyan Shilling,Silingi ya Kenya,Ciringi ya Kenya,Silingitab ya Kenya,Siling mar Kenya,Sirinji ya Kenya,Iropiyianí e Kenya,KES,Njilingi eel Kenya,Shilingka Kenya,Ango’otol lok’ Kenya","ChineseName":"肯尼亚先令","LastUpdate":"2023-03-02T16:50"},{"Rate":87.416,"CurrencyCode":"KGS","EnglishName":"Kyrgystani Som","NativeName":"Кыргызстан сому,киргизский сом","ChineseName":"吉尔吉斯斯坦索姆","LastUpdate":"2023-03-02T16:50"},{"Rate":4060.0,"CurrencyCode":"KHR","EnglishName":"Cambodian Riel","NativeName":"រៀល​កម្ពុជា","ChineseName":"柬埔寨瑞尔","LastUpdate":"2023-03-02T16:50"},{"Rate":1312.768708,"CurrencyCode":"KRW","EnglishName":"South Korean Won","NativeName":"대한민국 원","ChineseName":"韩元","LastUpdate":"2023-03-02T16:50"},{"Rate":0.307152,"CurrencyCode":"KWD","EnglishName":"Kuwaiti Dinar","NativeName":"دينار كويتي","ChineseName":"科威特第纳尔","LastUpdate":"2023-03-02T16:50"},{"Rate":0.833333,"CurrencyCode":"KYD","EnglishName":"Cayman Islands Dollar","NativeName":"Cayman Islands Dollar","ChineseName":"开曼群岛元","LastUpdate":"2023-03-02T16:00"},{"Rate":442.340519,"CurrencyCode":"KZT","EnglishName":"Kazakhstani Tenge","NativeName":"Қазақстан теңгесі,казахский тенге","ChineseName":"哈萨克斯坦坚戈","LastUpdate":"2023-03-02T16:50"},{"Rate":16864.142377,"CurrencyCode":"LAK","EnglishName":"Laotian Kip","NativeName":"ລາວ ກີບ","ChineseName":"老挝基普","LastUpdate":"2023-03-02T16:50"},{"Rate":15275.0,"CurrencyCode":"LBP","EnglishName":"Lebanese Pound","NativeName":"جنيه لبناني","ChineseName":"黎巴嫩镑","LastUpdate":"2023-03-02T16:50"},{"Rate":359.088861,"CurrencyCode":"LKR","EnglishName":"Sri Lankan Rupee","NativeName":"ශ්‍රී ලංකා රුපියල,இலங்கை ரூபாய்","ChineseName":"斯里兰卡卢比","LastUpdate":"2023-03-02T16:50"},{"Rate":4.835,"CurrencyCode":"LYD","EnglishName":"Libyan Dinar","NativeName":"دينار ليبي","ChineseName":"利比亚第纳尔","LastUpdate":"2023-03-02T16:50"},{"Rate":10.383127,"CurrencyCode":"MAD","EnglishName":"Moroccan Dirham","NativeName":"درهم مغربي,dirham marocain,adrim n lmɣrib,ⴰⴷⵔⵉⵎ ⵏ ⵍⵎⵖⵔⵉⴱ,Derhem Umeṛṛuki","ChineseName":"摩洛哥迪拉姆","LastUpdate":"2023-03-02T16:50"},{"Rate":18.850222,"CurrencyCode":"MDL","EnglishName":"Moldovan Leu","NativeName":"leu moldovenesc,молдавский лей","ChineseName":"摩尔多瓦列伊","LastUpdate":"2023-03-02T16:50"},{"Rate":58.132566,"CurrencyCode":"MKD","EnglishName":"Macedonian Denar","NativeName":"Македонски денар,Denari maqedonas","ChineseName":"马其顿第纳尔","LastUpdate":"2023-03-02T16:50"},{"Rate":2100.311575,"CurrencyCode":"MMK","EnglishName":"Myanmar Kyat","NativeName":"မြန်မာ ကျပ်","ChineseName":"缅甸缅元","LastUpdate":"2023-03-02T16:50"},{"Rate":8.08628,"CurrencyCode":"MOP","EnglishName":"Macanese Pataca","NativeName":"Macanese Pataca,pataca macaense,澳门币,澳門元","ChineseName":"澳门帕塔卡","LastUpdate":"2023-03-02T16:50"},{"Rate":46.346181,"CurrencyCode":"MUR","EnglishName":"Mauritian Rupee","NativeName":"Mauritian Rupee,roupie mauricienne,roupi morisien","ChineseName":"毛里求斯卢比","LastUpdate":"2023-03-02T16:50"},{"Rate":1031.60432606,"CurrencyCode":"MWK","EnglishName":"Malawian Kwacha","NativeName":"Malawian Kwacha","ChineseName":"马拉维客瓦查","LastUpdate":"2023-03-02T16:00"},{"Rate":18.117368,"CurrencyCode":"MXN","EnglishName":"Mexican Peso","NativeName":"peso mexicano","ChineseName":"墨西哥比索","LastUpdate":"2023-03-02T16:50"},{"Rate":4.4725,"CurrencyCode":"MYR","EnglishName":"Malaysian Ringgit","NativeName":"Malaysian Ringgit,Ringgit Malaysia,மலேஷியன் ரிங்கிட்","ChineseName":"马来西亚令吉","LastUpdate":"2023-03-02T16:50"},{"Rate":18.27,"CurrencyCode":"NAD","EnglishName":"Namibian Dollar","NativeName":"Namibiese dollar,Namibian Dollar,Namibia Dollari","ChineseName":"纳米比亚元","LastUpdate":"2023-03-02T16:50"},{"Rate":460.47,"CurrencyCode":"NGN","EnglishName":"Nigerian Naira","NativeName":"Nigerian Naira,𞤐𞤢𞤴𞤪𞤢 𞤐𞤢𞤶𞤭𞤪𞤢𞤴𞤢𞤲𞤳𞤮,Nayraa Nijeriyaa,Nairar Najeriya,Naịra,Naijíriá Naíra,Náírà Nàìjíríà","ChineseName":"尼日利亚奈拉","LastUpdate":"2023-03-02T16:50"},{"Rate":36.43,"CurrencyCode":"NIO","EnglishName":"Nicaraguan Córdoba","NativeName":"córdoba nicaragüense","ChineseName":"尼加拉瓜新科多巴","LastUpdate":"2023-03-02T16:50"},{"Rate":10.449371,"CurrencyCode":"NOK","EnglishName":"Norwegian Krone","NativeName":"norske kroner,norgga kruvdno","ChineseName":"挪威克朗","LastUpdate":"2023-03-02T16:50"},{"Rate":132.162026,"CurrencyCode":"NPR","EnglishName":"Nepalese Rupee","NativeName":"नेपाली रूपैयाँ","ChineseName":"尼泊尔卢比","LastUpdate":"2023-03-02T16:50"},{"Rate":1.609769,"CurrencyCode":"NZD","EnglishName":"New Zealand Dollar","NativeName":"New Zealand Dollar,Tāra o Aotearoa","ChineseName":"新西兰元","LastUpdate":"2023-03-02T16:50"},{"Rate":0.384951,"CurrencyCode":"OMR","EnglishName":"Omani Rial","NativeName":"ريال عماني","ChineseName":"阿曼里亚尔","LastUpdate":"2023-03-02T16:50"},{"Rate":1.0,"CurrencyCode":"PAB","EnglishName":"Panamanian Balboa","NativeName":"balboa panameño","ChineseName":"巴拿马巴波亚","LastUpdate":"2023-03-02T16:00"},{"Rate":3.7925,"CurrencyCode":"PEN","EnglishName":"Peruvian Sol","NativeName":"sol peruano,Sol Peruano","ChineseName":"秘鲁索尔","LastUpdate":"2023-03-02T16:50"},{"Rate":54.972001,"CurrencyCode":"PHP","EnglishName":"Philippine Piso","NativeName":"Philippine Piso,peso filipino,Piso ng Pilipinas","ChineseName":"菲律宾比索","LastUpdate":"2023-03-02T16:50"},{"Rate":261.575,"CurrencyCode":"PKR","EnglishName":"Pakistani Rupee","NativeName":"Pakistani Rupee,روپئیہ,پاکستانۍ کلداره,پاڪستاني رپي,پاکستانی روپیہ","ChineseName":"巴基斯坦卢比","LastUpdate":"2023-03-02T16:50"},{"Rate":4.431094,"CurrencyCode":"PLN","EnglishName":"Polish Zloty","NativeName":"złoty polski","ChineseName":"波兰兹罗提","LastUpdate":"2023-03-02T16:50"},{"Rate":7305.497371,"CurrencyCode":"PYG","EnglishName":"Paraguayan Guarani","NativeName":"guaraní paraguayo","ChineseName":"巴拉圭瓜拉尼","LastUpdate":"2023-03-02T16:50"},{"Rate":3.641,"CurrencyCode":"QAR","EnglishName":"Qatari Rial","NativeName":"ريال قطري","ChineseName":"卡塔尔里亚尔","LastUpdate":"2023-03-02T16:50"},{"Rate":4.645495,"CurrencyCode":"RON","EnglishName":"Romanian Leu","NativeName":"leu românesc","ChineseName":"罗马尼亚新列伊","LastUpdate":"2023-03-02T16:50"},{"Rate":110.700924,"CurrencyCode":"RSD","EnglishName":"Serbian Dinar","NativeName":"српски динар,srpski dinar","ChineseName":"塞尔维亚第纳尔","LastUpdate":"2023-03-02T16:50"},{"Rate":75.35795,"CurrencyCode":"RUB","EnglishName":"Russian Ruble","NativeName":"Российн сом,Сом,российский рубль,Арассыыйа солкуобайа,Россия сумы","ChineseName":"俄罗斯卢布","LastUpdate":"2023-03-02T16:50"},{"Rate":1092.5,"CurrencyCode":"RWF","EnglishName":"Rwandan Franc","NativeName":"Rwandan Franc,franc rwandais,RWF","ChineseName":"卢旺达法郎","LastUpdate":"2023-03-02T16:50"},{"Rate":3.753123,"CurrencyCode":"SAR","EnglishName":"Saudi Riyal","NativeName":"ريال سعودي","ChineseName":"沙特里亚尔","LastUpdate":"2023-03-02T16:50"},{"Rate":13.82905,"CurrencyCode":"SCR","EnglishName":"Seychellois Rupee","NativeName":"Seychellois Rupee,roupie des Seychelles","ChineseName":"塞舌尔卢比","LastUpdate":"2023-03-02T16:50"},{"Rate":589.5,"CurrencyCode":"SDG","EnglishName":"Sudanese Pound","NativeName":"جنيه سوداني,Sudanese Pound","ChineseName":"苏丹镑","LastUpdate":"2023-03-02T16:50"},{"Rate":10.507954,"CurrencyCode":"SEK","EnglishName":"Swedish Krona","NativeName":"Swedish Krona,ruoŧŧa kruvdno,svensk krona","ChineseName":"瑞典克朗","LastUpdate":"2023-03-02T16:50"},{"Rate":1.348025,"CurrencyCode":"SGD","EnglishName":"Singapore Dollar","NativeName":"Singapore Dollar,Dolar Singapura,சிங்கப்பூர் டாலர்,新加坡元","ChineseName":"新加坡元","LastUpdate":"2023-03-02T16:50"},{"Rate":569.5,"CurrencyCode":"SOS","EnglishName":"Somali Shilling","NativeName":"شلن صومالي,Shilingka Soomaaliya","ChineseName":"索马里先令","LastUpdate":"2023-03-02T16:50"},{"Rate":18.193294,"CurrencyCode":"SZL","EnglishName":"Swazi Lilangeni","NativeName":"Swazi Lilangeni","ChineseName":"斯威士兰埃马兰吉尼","LastUpdate":"2023-03-02T16:50"},{"Rate":34.793,"CurrencyCode":"THB","EnglishName":"Thai Baht","NativeName":"บาท","ChineseName":"泰国泰铢","LastUpdate":"2023-03-02T16:50"},{"Rate":3.5,"CurrencyCode":"TMT","EnglishName":"Turkmenistani Manat","NativeName":"Türkmen manady","ChineseName":"土库曼斯坦马纳特","LastUpdate":"2023-03-02T16:50"},{"Rate":3.138,"CurrencyCode":"TND","EnglishName":"Tunisian Dinar","NativeName":"دينار تونسي,dinar tunisien","ChineseName":"突尼斯第纳尔","LastUpdate":"2023-03-02T16:50"},{"Rate":18.8906,"CurrencyCode":"TRY","EnglishName":"Turkish Lira","NativeName":"TRY,Türk Lirası","ChineseName":"土耳其新里拉","LastUpdate":"2023-03-02T16:50"},{"Rate":6.785808,"CurrencyCode":"TTD","EnglishName":"Trinidad & Tobago Dollar","NativeName":"Trinidad & Tobago Dollar","ChineseName":"特立尼达和多巴哥元","LastUpdate":"2023-03-02T16:50"},{"Rate":30.696001,"CurrencyCode":"TWD","EnglishName":"New Taiwan Dollar","NativeName":"新台幣","ChineseName":"新台币","LastUpdate":"2023-03-02T16:50"},{"Rate":2341.0,"CurrencyCode":"TZS","EnglishName":"Tanzanian Shilling","NativeName":"shilingi ya Tandhania,Shilingi ya Hutanzania,Tanzanian Shilling,Shilingi ya Tanzania,shilingi ya Tanzania,Shilíingi ya Taansanía,Iropiyianí e Tanzania,heleri sa Tanzania,Ihela ya Tansaniya","ChineseName":"坦桑尼亚先令","LastUpdate":"2023-03-02T16:50"},{"Rate":36.938464,"CurrencyCode":"UAH","EnglishName":"Ukrainian Hryvnia","NativeName":"украинская гривна,українська гривня","ChineseName":"乌克兰格里夫纳","LastUpdate":"2023-03-02T16:50"},{"Rate":3716.712121,"CurrencyCode":"UGX","EnglishName":"Ugandan Shilling","NativeName":"Eshiringi ya Uganda,Ugandan Shilling,Silingi eya Yuganda,Shilingi ya Uganda,Ango’otol lok’ Uganda","ChineseName":"乌干达先令","LastUpdate":"2023-03-02T16:50"},{"Rate":1.0,"CurrencyCode":"USD","EnglishName":"US Dollar","NativeName":"US ᎠᏕᎳ,US Dollar,dólar estadounidense,USD,Dola yase Amelika,Amerikaanse dollar,dólar dos Estados Unidos,Dólar Americano,Dora re Amerika","ChineseName":"美元","LastUpdate":"2023-03-02T16:53"},{"Rate":38.916922,"CurrencyCode":"UYU","EnglishName":"Uruguayan Peso","NativeName":"peso uruguayo","ChineseName":"乌拉圭比索","LastUpdate":"2023-03-02T16:50"},{"Rate":11360.0,"CurrencyCode":"UZS","EnglishName":"Uzbekistani Som","NativeName":"Ўзбекистон сўм,O‘zbekiston so‘mi","ChineseName":"乌兹别克斯坦索姆","LastUpdate":"2023-03-02T16:50"},{"Rate":24.3571,"CurrencyCode":"VES","EnglishName":"Venezuelan Bolívar","NativeName":"bolívar soberano","ChineseName":"委内瑞拉玻利瓦尔","LastUpdate":"2023-03-02T16:00"},{"Rate":23725.0,"CurrencyCode":"VND","EnglishName":"Vietnamese Dong","NativeName":"Đồng Việt Nam","ChineseName":"越南盾","LastUpdate":"2023-03-02T16:50"},{"Rate":619.11264,"CurrencyCode":"XAF","EnglishName":"Central African CFA Franc","NativeName":"CFA Fàlâŋ BEAC,فرنك وسط أفريقي,Frǎŋ CFA (BEAC),XAF,Central African CFA Franc,franco CFA de África Central,Fəláŋ CFA (BEAC),𞤊𞤢𞤪𞤢𞤲 𞤚𞤵𞤦𞤮𞥅𞤪𞤭 𞤀𞤬𞤪𞤭𞤳𞤭𞤲𞤳𞤮,Mbuuɗi Seefaa BEAC,franc CFA (BEAC),Fɛlâŋ,Franc CFA,fráŋ,Falánga CFA BEAC,shirè,solai BEAC,Fraŋ CFA BEAC,feláŋ CFA,franco CFA (BEAC),farânga CFA (BEAC)","ChineseName":"中非金融合作法郎","LastUpdate":"2023-03-02T16:50"},{"Rate":2.7,"CurrencyCode":"XCD","EnglishName":"East Caribbean Dollar","NativeName":"East Caribbean Dollar","ChineseName":"东加勒比元","LastUpdate":"2023-03-02T16:00"},{"Rate":619.11264,"CurrencyCode":"XOF","EnglishName":"West African CFA Franc","NativeName":"sefa Fraŋ (BCEAO),CFA Fraŋ (BCEAO),seefa yati BCEAO,ɣetoɖofe afrikaga CFA franc BCEAO,𞤊𞤢𞤪𞤢𞤲 𞤅𞤊𞤀 𞤖𞤭𞥅𞤪𞤲𞤢𞥄𞤲𞤺𞤫 𞤀𞤬𞤪𞤭𞤳𞤢,Mbuuɗu Seefaa BCEAO,franc CFA (BCEAO),Kuɗin Sefa na Afirka Ta Yamma,franco CFA (BCEAO),Franc CFA bu Afrik Sowwu-jant,Faransì ìwɔ̀-oorùn Afíríkà","ChineseName":"非洲金融共同体法郎","LastUpdate":"2023-03-02T16:50"},{"Rate":112.629014,"CurrencyCode":"XPF","EnglishName":"CFP Franc","NativeName":"franc CFP","ChineseName":"太平洋金融共同体法郎","LastUpdate":"2023-03-02T16:50"},{"Rate":250.300053,"CurrencyCode":"YER","EnglishName":"Yemeni Rial","NativeName":"ريال يمني","ChineseName":"也门里亚尔","LastUpdate":"2023-03-02T16:50"},{"Rate":18.208304,"CurrencyCode":"ZAR","EnglishName":"South African Rand","NativeName":"Suid-Afrikaanse rand,South African Rand,iRandi yaseMzanzi Afrika,i-South African Rand","ChineseName":"南非兰特","LastUpdate":"2023-03-02T16:50"},{"Rate":19.978538,"CurrencyCode":"ZMW","EnglishName":"Zambian Kwacha","NativeName":"ZMW,Zambian Kwacha","ChineseName":"赞比亚克瓦查","LastUpdate":"2023-03-02T16:50"}]}
+{
+  "date": "2023-03-02",
+  "main_currency": "USD",
+  "datas": [
+    {
+      "rate": 3.673,
+      "currency_code": "AED",
+      "english_name": "United Arab Emirates Dirham",
+      "native_name": "درهم إماراتي,United Arab Emirates Dirham",
+      "chinese_name": "阿联酋迪拉姆",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 108.65,
+      "currency_code": "ALL",
+      "english_name": "Albanian Lek",
+      "native_name": "Leku shqiptar",
+      "chinese_name": "阿尔巴尼亚列克",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 388.95,
+      "currency_code": "AMD",
+      "english_name": "Armenian Dram",
+      "native_name": "հայկական դրամ",
+      "chinese_name": "亚美尼亚德拉姆",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 1.802564,
+      "currency_code": "ANG",
+      "english_name": "Netherlands Antillean Guilder",
+      "native_name": "Netherlands Antillean Guilder,Nederlands-Antilliaanse gulden",
+      "chinese_name": "荷属安的列斯盾",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 507.5,
+      "currency_code": "AOA",
+      "english_name": "Angolan Kwanza",
+      "native_name": "Kwanza ya Angóla,kwanza angolano",
+      "chinese_name": "安哥拉宽扎",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 197.8463,
+      "currency_code": "ARS",
+      "english_name": "Argentine Peso",
+      "native_name": "peso argentino",
+      "chinese_name": "阿根廷比索",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 1.490546,
+      "currency_code": "AUD",
+      "english_name": "Australian Dollar",
+      "native_name": "Australian Dollar",
+      "chinese_name": "澳大利亚元",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 1.7,
+      "currency_code": "AZN",
+      "english_name": "Azerbaijani Manat",
+      "native_name": "AZN,Azərbaycan Manatı",
+      "chinese_name": "阿塞拜疆马纳特",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 2.0,
+      "currency_code": "BBD",
+      "english_name": "Barbadian Dollar",
+      "native_name": "Barbadian Dollar",
+      "chinese_name": "巴巴多斯元",
+      "last_update": "2023-03-02T18:00"
+    },
+    {
+      "rate": 104.58985422,
+      "currency_code": "BDT",
+      "english_name": "Bangladeshi Taka",
+      "native_name": "বাংলাদেশী টাকা,𑄝𑄁𑄣𑄘𑄬𑄥𑄨 𑄑𑄬𑄋",
+      "chinese_name": "孟加拉塔卡",
+      "last_update": "2023-03-02T18:00"
+    },
+    {
+      "rate": 1.846535,
+      "currency_code": "BGN",
+      "english_name": "Bulgarian Lev",
+      "native_name": "Български лев",
+      "chinese_name": "保加利亚列弗",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 0.377025,
+      "currency_code": "BHD",
+      "english_name": "Bahraini Dinar",
+      "native_name": "دينار بحريني",
+      "chinese_name": "巴林第纳尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 2062.0,
+      "currency_code": "BIF",
+      "english_name": "Burundian Franc",
+      "native_name": "Burundian Franc,franc burundais,Ifaranga ry’Uburundi",
+      "chinese_name": "布隆迪法郎",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 1.0,
+      "currency_code": "BMD",
+      "english_name": "Bermudan Dollar",
+      "native_name": "Bermudian Dollar",
+      "chinese_name": "百慕大元",
+      "last_update": "2023-03-02T18:00"
+    },
+    {
+      "rate": 1.347949,
+      "currency_code": "BND",
+      "english_name": "Brunei Dollar",
+      "native_name": "Dolar Brunei",
+      "chinese_name": "文莱元",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 6.93137424,
+      "currency_code": "BOB",
+      "english_name": "Bolivian Boliviano",
+      "native_name": "boliviano,Boliviano",
+      "chinese_name": "玻利维亚币",
+      "last_update": "2023-03-02T18:00"
+    },
+    {
+      "rate": 5.2047,
+      "currency_code": "BRL",
+      "english_name": "Brazilian Real",
+      "native_name": "real brasileño,Real brasileiro",
+      "chinese_name": "巴西雷阿尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 1.0,
+      "currency_code": "BSD",
+      "english_name": "Bahamian Dollar",
+      "native_name": "Bahamian Dollar",
+      "chinese_name": "巴哈马元",
+      "last_update": "2023-03-02T18:00"
+    },
+    {
+      "rate": 13.230036,
+      "currency_code": "BWP",
+      "english_name": "Botswanan Pula",
+      "native_name": "Botswanan Pula",
+      "chinese_name": "博茨瓦纳普拉",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 2.524593,
+      "currency_code": "BYN",
+      "english_name": "Belarusian Ruble",
+      "native_name": "беларускі рубель,белорусский рубль",
+      "chinese_name": "白俄罗斯卢布",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 2.0,
+      "currency_code": "BZD",
+      "english_name": "Belize Dollar",
+      "native_name": "Belize Dollar,dólar beliceño",
+      "chinese_name": "伯利兹元",
+      "last_update": "2023-03-02T18:00"
+    },
+    {
+      "rate": 1.363201,
+      "currency_code": "CAD",
+      "english_name": "Canadian Dollar",
+      "native_name": "Canadian Dollar,dollar canadien",
+      "chinese_name": "加拿大元",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 0.943535,
+      "currency_code": "CHF",
+      "english_name": "Swiss Franc",
+      "native_name": "Schweizer Franken,Swiss Franc,franc suisse,Schwiizer Franke,franco svizzero,franco suíço,franc svizzer,CHF",
+      "chinese_name": "瑞士法郎",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 813.18,
+      "currency_code": "CLP",
+      "english_name": "Chilean Peso",
+      "native_name": "Peso chileno",
+      "chinese_name": "智利比索",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 6.9153,
+      "currency_code": "CNY",
+      "english_name": "Chinese Yuan",
+      "native_name": "ཡུ་ཨན་,CNY,جۇڭگو يۈەنى,人民币",
+      "chinese_name": "人民币",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 4851.533348,
+      "currency_code": "COP",
+      "english_name": "Colombian Peso",
+      "native_name": "peso colombiano",
+      "chinese_name": "哥伦比亚比索",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 558.456343,
+      "currency_code": "CRC",
+      "english_name": "Costa Rican Colón",
+      "native_name": "colón costarricense",
+      "chinese_name": "哥斯达黎加科郎",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 24.0,
+      "currency_code": "CUP",
+      "english_name": "Cuban Peso",
+      "native_name": "peso cubano",
+      "chinese_name": "古巴比索",
+      "last_update": "2023-03-02T18:00"
+    },
+    {
+      "rate": 104.45,
+      "currency_code": "CVE",
+      "english_name": "Cape Verdean Escudo",
+      "native_name": "Skudu Kabuverdianu,escudo cabo-verdiano",
+      "chinese_name": "佛得角埃斯库多",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 22.171851,
+      "currency_code": "CZK",
+      "english_name": "Czech Koruna",
+      "native_name": "česká koruna",
+      "chinese_name": "捷克克朗",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 177.827972,
+      "currency_code": "DJF",
+      "english_name": "Djiboutian Franc",
+      "native_name": "فرنك جيبوتي,franc djiboutien,Faran Jabuuti",
+      "chinese_name": "吉布提法郎",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 7.034884,
+      "currency_code": "DKK",
+      "english_name": "Danish Krone",
+      "native_name": "dansk krone,Danish Krone,donsk króna,DKK",
+      "chinese_name": "丹麦克朗",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 55.45,
+      "currency_code": "DOP",
+      "english_name": "Dominican Peso",
+      "native_name": "peso dominicano",
+      "chinese_name": "多米尼加比索",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 136.782965,
+      "currency_code": "DZD",
+      "english_name": "Algerian Dinar",
+      "native_name": "دينار جزائري,dinar algérien,Adinar Azzayri",
+      "chinese_name": "阿尔及利亚第纳尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 30.7677,
+      "currency_code": "EGP",
+      "english_name": "Egyptian Pound",
+      "native_name": "جنيه مصري",
+      "chinese_name": "埃及镑",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 53.755,
+      "currency_code": "ETB",
+      "english_name": "Ethiopian Birr",
+      "native_name": "የኢትዮጵያ ብር,Itoophiyaa Birrii,Birta Itoobbiya,ብር",
+      "chinese_name": "埃塞俄比亚比尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 0.945391,
+      "currency_code": "EUR",
+      "english_name": "Euro",
+      "native_name": "euro,Euro,Ευρώ,euroa,Euras,eiro,ewro,èuro,evro,Euroja,Евро,Evro",
+      "chinese_name": "欧元",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 2.2179,
+      "currency_code": "FJD",
+      "english_name": "Fijian Dollar",
+      "native_name": "Fijian Dollar",
+      "chinese_name": "斐济元",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 0.838529,
+      "currency_code": "GBP",
+      "english_name": "British Pound",
+      "native_name": "Punt Prydain,British Pound,UK Pound,Punt Steirling,Punnd Sasannach,GBP",
+      "chinese_name": "英镑",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 2.595,
+      "currency_code": "GEL",
+      "english_name": "Georgian Lari",
+      "native_name": "ქართული ლარი,Лар",
+      "chinese_name": "格鲁吉亚拉里",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 12.85,
+      "currency_code": "GHS",
+      "english_name": "Ghanaian Cedi",
+      "native_name": "Ghana Sidi,ghana siɖi,Ghanaian Cedi,𞤅𞤭𞤣𞤭 𞤘𞤢𞤲𞤢𞤲𞤳𞤮,GHS,Sidi na Ghana",
+      "chinese_name": "加纳塞地",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 61.04,
+      "currency_code": "GMD",
+      "english_name": "Gambian Dalasi",
+      "native_name": "Gambian Dalasi,𞤁𞤢𞤤𞤢𞤧𞤭 𞤘𞤢𞤥𞤦𞤭𞤲𞤳𞤮,Dalasi Gammbi",
+      "chinese_name": "冈比亚达拉西",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 8825.0,
+      "currency_code": "GNF",
+      "english_name": "Guinean Franc",
+      "native_name": "𞤊𞤢𞤪𞤢𞤲 𞤘𞤭𞤲𞤫𞤲𞤳𞤮,GNF,franc guinéen",
+      "chinese_name": "几内亚法郎",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 7.811394,
+      "currency_code": "GTQ",
+      "english_name": "Guatemalan Quetzal",
+      "native_name": "quetzal",
+      "chinese_name": "危地马拉格查尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 7.849385,
+      "currency_code": "HKD",
+      "english_name": "Hong Kong Dollar",
+      "native_name": "Hong Kong Dollar,港幣,港元",
+      "chinese_name": "港元",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 24.68,
+      "currency_code": "HNL",
+      "english_name": "Honduran Lempira",
+      "native_name": "lempira hondureño",
+      "chinese_name": "洪都拉斯伦皮拉",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 7.122333,
+      "currency_code": "HRK",
+      "english_name": "Croatian Kuna",
+      "native_name": "hrvatska kuna",
+      "chinese_name": "克罗地亚库纳",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 151.026996,
+      "currency_code": "HTG",
+      "english_name": "Haitian Gourde",
+      "native_name": "gourde haïtienne",
+      "chinese_name": "海地古德",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 355.647255,
+      "currency_code": "HUF",
+      "english_name": "Hungarian Forint",
+      "native_name": "magyar forint",
+      "chinese_name": "匈牙利福林",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 15337.732209,
+      "currency_code": "IDR",
+      "english_name": "Indonesian Rupiah",
+      "native_name": "Rupiah Indonesia,Rupee Indonésia",
+      "chinese_name": "印尼盾",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 3.66187,
+      "currency_code": "ILS",
+      "english_name": "Israeli New Shekel",
+      "native_name": "شيكل إسرائيلي جديد,Israeli New Shekel,שקל חדש",
+      "chinese_name": "以色列新谢克尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 82.352852,
+      "currency_code": "INR",
+      "english_name": "Indian Rupee",
+      "native_name": "ভাৰতীয় ৰুপী,ভারতীয় রুপি,རྒྱ་གར་སྒོར་,रां,𑄃𑄨𑄚𑄴𑄘𑄨𑄠𑄚𑄴 𑄢𑄪𑄛𑄨,भारती रपेऽ,Indian Rupee,ભારતીય રૂપિયા,भारतीय रुपया,ಭಾರತೀಯ ರೂಪಾಯಿ,ہِندُستٲنۍ رۄپَے,ഇന്ത്യൻ രൂപ,ইন্দিয়ান রুপী,भारतीय रूपिँया,ଭାରତୀୟ ଟଙ୍କା,ਭਾਰਤੀ ਰੁਪਇਆ,भारतीय रूप्यकम्,ᱥᱤᱧᱚᱛ ᱨᱮᱱᱟᱜ ᱴᱟᱠᱟ,हिंदुस्तानी रुपयो,இந்திய ரூபாய்,భారతదేశ రూపాయి,بھارتی روپیہ",
+      "chinese_name": "印度卢比",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 1460.5,
+      "currency_code": "IQD",
+      "english_name": "Iraqi Dinar",
+      "native_name": "دينار عراقي,IQD",
+      "chinese_name": "伊拉克第纳尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 42250.0,
+      "currency_code": "IRR",
+      "english_name": "Iranian Rial",
+      "native_name": "IRR,ریال ایران,ایران ریال",
+      "chinese_name": "伊朗里亚尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 142.82,
+      "currency_code": "ISK",
+      "english_name": "Icelandic Króna",
+      "native_name": "íslensk króna",
+      "chinese_name": "冰岛克朗",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 154.022862,
+      "currency_code": "JMD",
+      "english_name": "Jamaican Dollar",
+      "native_name": "Jamaican Dollar",
+      "chinese_name": "牙买加元",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 0.7094,
+      "currency_code": "JOD",
+      "english_name": "Jordanian Dinar",
+      "native_name": "دينار أردني",
+      "chinese_name": "约旦第纳尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 136.9330192,
+      "currency_code": "JPY",
+      "english_name": "Japanese Yen",
+      "native_name": "日本円",
+      "chinese_name": "日元",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 127.35,
+      "currency_code": "KES",
+      "english_name": "Kenyan Shilling",
+      "native_name": "Shilingi ya Kenya,Kenyan Shilling,Silingi ya Kenya,Ciringi ya Kenya,Silingitab ya Kenya,Siling mar Kenya,Sirinji ya Kenya,Iropiyianí e Kenya,KES,Njilingi eel Kenya,Shilingka Kenya,Ango’otol lok’ Kenya",
+      "chinese_name": "肯尼亚先令",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 87.416,
+      "currency_code": "KGS",
+      "english_name": "Kyrgystani Som",
+      "native_name": "Кыргызстан сому,киргизский сом",
+      "chinese_name": "吉尔吉斯斯坦索姆",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 4060.0,
+      "currency_code": "KHR",
+      "english_name": "Cambodian Riel",
+      "native_name": "រៀល​កម្ពុជា",
+      "chinese_name": "柬埔寨瑞尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 1314.826649,
+      "currency_code": "KRW",
+      "english_name": "South Korean Won",
+      "native_name": "대한민국 원",
+      "chinese_name": "韩元",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 0.307224,
+      "currency_code": "KWD",
+      "english_name": "Kuwaiti Dinar",
+      "native_name": "دينار كويتي",
+      "chinese_name": "科威特第纳尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 0.833333,
+      "currency_code": "KYD",
+      "english_name": "Cayman Islands Dollar",
+      "native_name": "Cayman Islands Dollar",
+      "chinese_name": "开曼群岛元",
+      "last_update": "2023-03-02T18:00"
+    },
+    {
+      "rate": 442.340519,
+      "currency_code": "KZT",
+      "english_name": "Kazakhstani Tenge",
+      "native_name": "Қазақстан теңгесі,казахский тенге",
+      "chinese_name": "哈萨克斯坦坚戈",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 16864.142377,
+      "currency_code": "LAK",
+      "english_name": "Laotian Kip",
+      "native_name": "ລາວ ກີບ",
+      "chinese_name": "老挝基普",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 15250.0,
+      "currency_code": "LBP",
+      "english_name": "Lebanese Pound",
+      "native_name": "جنيه لبناني",
+      "chinese_name": "黎巴嫩镑",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 359.088861,
+      "currency_code": "LKR",
+      "english_name": "Sri Lankan Rupee",
+      "native_name": "ශ්‍රී ලංකා රුපියල,இலங்கை ரூபாய்",
+      "chinese_name": "斯里兰卡卢比",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 4.83,
+      "currency_code": "LYD",
+      "english_name": "Libyan Dinar",
+      "native_name": "دينار ليبي",
+      "chinese_name": "利比亚第纳尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 10.3975,
+      "currency_code": "MAD",
+      "english_name": "Moroccan Dirham",
+      "native_name": "درهم مغربي,dirham marocain,adrim n lmɣrib,ⴰⴷⵔⵉⵎ ⵏ ⵍⵎⵖⵔⵉⴱ,Derhem Umeṛṛuki",
+      "chinese_name": "摩洛哥迪拉姆",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 18.850222,
+      "currency_code": "MDL",
+      "english_name": "Moldovan Leu",
+      "native_name": "leu moldovenesc,молдавский лей",
+      "chinese_name": "摩尔多瓦列伊",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 58.132566,
+      "currency_code": "MKD",
+      "english_name": "Macedonian Denar",
+      "native_name": "Македонски денар,Denari maqedonas",
+      "chinese_name": "马其顿第纳尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 2100.311575,
+      "currency_code": "MMK",
+      "english_name": "Myanmar Kyat",
+      "native_name": "မြန်မာ ကျပ်",
+      "chinese_name": "缅甸缅元",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 8.08628,
+      "currency_code": "MOP",
+      "english_name": "Macanese Pataca",
+      "native_name": "Macanese Pataca,pataca macaense,澳门币,澳門元",
+      "chinese_name": "澳门帕塔卡",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 46.352889,
+      "currency_code": "MUR",
+      "english_name": "Mauritian Rupee",
+      "native_name": "Mauritian Rupee,roupie mauricienne,roupi morisien",
+      "chinese_name": "毛里求斯卢比",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 1031.5748012,
+      "currency_code": "MWK",
+      "english_name": "Malawian Kwacha",
+      "native_name": "Malawian Kwacha",
+      "chinese_name": "马拉维客瓦查",
+      "last_update": "2023-03-02T18:00"
+    },
+    {
+      "rate": 18.126909,
+      "currency_code": "MXN",
+      "english_name": "Mexican Peso",
+      "native_name": "peso mexicano",
+      "chinese_name": "墨西哥比索",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 4.4755,
+      "currency_code": "MYR",
+      "english_name": "Malaysian Ringgit",
+      "native_name": "Malaysian Ringgit,Ringgit Malaysia,மலேஷியன் ரிங்கிட்",
+      "chinese_name": "马来西亚令吉",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 18.23,
+      "currency_code": "NAD",
+      "english_name": "Namibian Dollar",
+      "native_name": "Namibiese dollar,Namibian Dollar,Namibia Dollari",
+      "chinese_name": "纳米比亚元",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 460.0,
+      "currency_code": "NGN",
+      "english_name": "Nigerian Naira",
+      "native_name": "Nigerian Naira,𞤐𞤢𞤴𞤪𞤢 𞤐𞤢𞤶𞤭𞤪𞤢𞤴𞤢𞤲𞤳𞤮,Nayraa Nijeriyaa,Nairar Najeriya,Naịra,Naijíriá Naíra,Náírà Nàìjíríà",
+      "chinese_name": "尼日利亚奈拉",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 36.4,
+      "currency_code": "NIO",
+      "english_name": "Nicaraguan Córdoba",
+      "native_name": "córdoba nicaragüense",
+      "chinese_name": "尼加拉瓜新科多巴",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 10.473522,
+      "currency_code": "NOK",
+      "english_name": "Norwegian Krone",
+      "native_name": "norske kroner,norgga kruvdno",
+      "chinese_name": "挪威克朗",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 132.162026,
+      "currency_code": "NPR",
+      "english_name": "Nepalese Rupee",
+      "native_name": "नेपाली रूपैयाँ",
+      "chinese_name": "尼泊尔卢比",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 1.612639,
+      "currency_code": "NZD",
+      "english_name": "New Zealand Dollar",
+      "native_name": "New Zealand Dollar,Tāra o Aotearoa",
+      "chinese_name": "新西兰元",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 0.384995,
+      "currency_code": "OMR",
+      "english_name": "Omani Rial",
+      "native_name": "ريال عماني",
+      "chinese_name": "阿曼里亚尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 1.0,
+      "currency_code": "PAB",
+      "english_name": "Panamanian Balboa",
+      "native_name": "balboa panameño",
+      "chinese_name": "巴拿马巴波亚",
+      "last_update": "2023-03-02T18:00"
+    },
+    {
+      "rate": 3.7825,
+      "currency_code": "PEN",
+      "english_name": "Peruvian Sol",
+      "native_name": "sol peruano,Sol Peruano",
+      "chinese_name": "秘鲁索尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 55.024006,
+      "currency_code": "PHP",
+      "english_name": "Philippine Piso",
+      "native_name": "Philippine Piso,peso filipino,Piso ng Pilipinas",
+      "chinese_name": "菲律宾比索",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 261.575,
+      "currency_code": "PKR",
+      "english_name": "Pakistani Rupee",
+      "native_name": "Pakistani Rupee,روپئیہ,پاکستانۍ کلداره,پاڪستاني رپي,پاکستانی روپیہ",
+      "chinese_name": "巴基斯坦卢比",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 4.44346,
+      "currency_code": "PLN",
+      "english_name": "Polish Zloty",
+      "native_name": "złoty polski",
+      "chinese_name": "波兰兹罗提",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 7305.497371,
+      "currency_code": "PYG",
+      "english_name": "Paraguayan Guarani",
+      "native_name": "guaraní paraguayo",
+      "chinese_name": "巴拉圭瓜拉尼",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 3.641,
+      "currency_code": "QAR",
+      "english_name": "Qatari Rial",
+      "native_name": "ريال قطري",
+      "chinese_name": "卡塔尔里亚尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 4.65313,
+      "currency_code": "RON",
+      "english_name": "Romanian Leu",
+      "native_name": "leu românesc",
+      "chinese_name": "罗马尼亚新列伊",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 110.914372,
+      "currency_code": "RSD",
+      "english_name": "Serbian Dinar",
+      "native_name": "српски динар,srpski dinar",
+      "chinese_name": "塞尔维亚第纳尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 75.5002,
+      "currency_code": "RUB",
+      "english_name": "Russian Ruble",
+      "native_name": "Российн сом,Сом,российский рубль,Арассыыйа солкуобайа,Россия сумы",
+      "chinese_name": "俄罗斯卢布",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 1093.5,
+      "currency_code": "RWF",
+      "english_name": "Rwandan Franc",
+      "native_name": "Rwandan Franc,franc rwandais,RWF",
+      "chinese_name": "卢旺达法郎",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 3.753327,
+      "currency_code": "SAR",
+      "english_name": "Saudi Riyal",
+      "native_name": "ريال سعودي",
+      "chinese_name": "沙特里亚尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 13.927184,
+      "currency_code": "SCR",
+      "english_name": "Seychellois Rupee",
+      "native_name": "Seychellois Rupee,roupie des Seychelles",
+      "chinese_name": "塞舌尔卢比",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 589.5,
+      "currency_code": "SDG",
+      "english_name": "Sudanese Pound",
+      "native_name": "جنيه سوداني,Sudanese Pound",
+      "chinese_name": "苏丹镑",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 10.532508,
+      "currency_code": "SEK",
+      "english_name": "Swedish Krona",
+      "native_name": "Swedish Krona,ruoŧŧa kruvdno,svensk krona",
+      "chinese_name": "瑞典克朗",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 1.349178,
+      "currency_code": "SGD",
+      "english_name": "Singapore Dollar",
+      "native_name": "Singapore Dollar,Dolar Singapura,சிங்கப்பூர் டாலர்,新加坡元",
+      "chinese_name": "新加坡元",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 568.5,
+      "currency_code": "SOS",
+      "english_name": "Somali Shilling",
+      "native_name": "شلن صومالي,Shilingka Soomaaliya",
+      "chinese_name": "索马里先令",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 18.23,
+      "currency_code": "SZL",
+      "english_name": "Swazi Lilangeni",
+      "native_name": "Swazi Lilangeni",
+      "chinese_name": "斯威士兰埃马兰吉尼",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 34.86,
+      "currency_code": "THB",
+      "english_name": "Thai Baht",
+      "native_name": "บาท",
+      "chinese_name": "泰国泰铢",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 3.51,
+      "currency_code": "TMT",
+      "english_name": "Turkmenistani Manat",
+      "native_name": "Türkmen manady",
+      "chinese_name": "土库曼斯坦马纳特",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 3.1525,
+      "currency_code": "TND",
+      "english_name": "Tunisian Dinar",
+      "native_name": "دينار تونسي,dinar tunisien",
+      "chinese_name": "突尼斯第纳尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 18.9014,
+      "currency_code": "TRY",
+      "english_name": "Turkish Lira",
+      "native_name": "TRY,Türk Lirası",
+      "chinese_name": "土耳其新里拉",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 6.785808,
+      "currency_code": "TTD",
+      "english_name": "Trinidad & Tobago Dollar",
+      "native_name": "Trinidad & Tobago Dollar",
+      "chinese_name": "特立尼达和多巴哥元",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 30.6855,
+      "currency_code": "TWD",
+      "english_name": "New Taiwan Dollar",
+      "native_name": "新台幣",
+      "chinese_name": "新台币",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 2341.0,
+      "currency_code": "TZS",
+      "english_name": "Tanzanian Shilling",
+      "native_name": "shilingi ya Tandhania,Shilingi ya Hutanzania,Tanzanian Shilling,Shilingi ya Tanzania,shilingi ya Tanzania,Shilíingi ya Taansanía,Iropiyianí e Tanzania,heleri sa Tanzania,Ihela ya Tansaniya",
+      "chinese_name": "坦桑尼亚先令",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 36.938464,
+      "currency_code": "UAH",
+      "english_name": "Ukrainian Hryvnia",
+      "native_name": "украинская гривна,українська гривня",
+      "chinese_name": "乌克兰格里夫纳",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 3716.712121,
+      "currency_code": "UGX",
+      "english_name": "Ugandan Shilling",
+      "native_name": "Eshiringi ya Uganda,Ugandan Shilling,Silingi eya Yuganda,Shilingi ya Uganda,Ango’otol lok’ Uganda",
+      "chinese_name": "乌干达先令",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 1.0,
+      "currency_code": "USD",
+      "english_name": "US Dollar",
+      "native_name": "US ᎠᏕᎳ,US Dollar,dólar estadounidense,USD,Dola yase Amelika,Amerikaanse dollar,dólar dos Estados Unidos,Dólar Americano,Dora re Amerika",
+      "chinese_name": "美元",
+      "last_update": "2023-03-02T18:31"
+    },
+    {
+      "rate": 38.916922,
+      "currency_code": "UYU",
+      "english_name": "Uruguayan Peso",
+      "native_name": "peso uruguayo",
+      "chinese_name": "乌拉圭比索",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 11360.0,
+      "currency_code": "UZS",
+      "english_name": "Uzbekistani Som",
+      "native_name": "Ўзбекистон сўм,O‘zbekiston so‘mi",
+      "chinese_name": "乌兹别克斯坦索姆",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 24.3571,
+      "currency_code": "VES",
+      "english_name": "Venezuelan Bolívar",
+      "native_name": "bolívar soberano",
+      "chinese_name": "委内瑞拉玻利瓦尔",
+      "last_update": "2023-03-02T18:00"
+    },
+    {
+      "rate": 23722.5,
+      "currency_code": "VND",
+      "english_name": "Vietnamese Dong",
+      "native_name": "Đồng Việt Nam",
+      "chinese_name": "越南盾",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 620.136164,
+      "currency_code": "XAF",
+      "english_name": "Central African CFA Franc",
+      "native_name": "CFA Fàlâŋ BEAC,فرنك وسط أفريقي,Frǎŋ CFA (BEAC),XAF,Central African CFA Franc,franco CFA de África Central,Fəláŋ CFA (BEAC),𞤊𞤢𞤪𞤢𞤲 𞤚𞤵𞤦𞤮𞥅𞤪𞤭 𞤀𞤬𞤪𞤭𞤳𞤭𞤲𞤳𞤮,Mbuuɗi Seefaa BEAC,franc CFA (BEAC),Fɛlâŋ,Franc CFA,fráŋ,Falánga CFA BEAC,shirè,solai BEAC,Fraŋ CFA BEAC,feláŋ CFA,franco CFA (BEAC),farânga CFA (BEAC)",
+      "chinese_name": "中非金融合作法郎",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 2.7,
+      "currency_code": "XCD",
+      "english_name": "East Caribbean Dollar",
+      "native_name": "East Caribbean Dollar",
+      "chinese_name": "东加勒比元",
+      "last_update": "2023-03-02T18:00"
+    },
+    {
+      "rate": 620.136164,
+      "currency_code": "XOF",
+      "english_name": "West African CFA Franc",
+      "native_name": "sefa Fraŋ (BCEAO),CFA Fraŋ (BCEAO),seefa yati BCEAO,ɣetoɖofe afrikaga CFA franc BCEAO,𞤊𞤢𞤪𞤢𞤲 𞤅𞤊𞤀 𞤖𞤭𞥅𞤪𞤲𞤢𞥄𞤲𞤺𞤫 𞤀𞤬𞤪𞤭𞤳𞤢,Mbuuɗu Seefaa BCEAO,franc CFA (BCEAO),Kuɗin Sefa na Afirka Ta Yamma,franco CFA (BCEAO),Franc CFA bu Afrik Sowwu-jant,Faransì ìwɔ̀-oorùn Afíríkà",
+      "chinese_name": "非洲金融共同体法郎",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 112.815213,
+      "currency_code": "XPF",
+      "english_name": "CFP Franc",
+      "native_name": "franc CFP",
+      "chinese_name": "太平洋金融共同体法郎",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 250.275075,
+      "currency_code": "YER",
+      "english_name": "Yemeni Rial",
+      "native_name": "ريال يمني",
+      "chinese_name": "也门里亚尔",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 18.220607,
+      "currency_code": "ZAR",
+      "english_name": "South African Rand",
+      "native_name": "Suid-Afrikaanse rand,South African Rand,iRandi yaseMzanzi Afrika,i-South African Rand",
+      "chinese_name": "南非兰特",
+      "last_update": "2023-03-02T18:30"
+    },
+    {
+      "rate": 19.978538,
+      "currency_code": "ZMW",
+      "english_name": "Zambian Kwacha",
+      "native_name": "ZMW,Zambian Kwacha",
+      "chinese_name": "赞比亚克瓦查",
+      "last_update": "2023-03-02T18:30"
+    }
+  ]
+}
