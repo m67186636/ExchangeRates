@@ -1,7 +1,7 @@
 name: update
 on:
   schedule:
-    - cron: '0,30 * * * *'
+    - cron: '*/15 * * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
