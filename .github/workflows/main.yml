@@ -10,8 +10,8 @@ jobs:
       - name: CR
         uses: actions/checkout@v3
         with:
-          repository: m67186636/ExchangeRateWorkflow.git
-          ref: ${{ github.ref }}
+          repository: m67186636/ExchangeRateWorkflow
+          ref: 'master'
           token:  ${{ secrets.GITHUB_TOKEN }}
           
       - name: Clone Repositories    
