@@ -8,7 +8,8 @@ jobs:
     steps:
       - name: Clone Repositories    
         run: |
-          git clone https://${{secrets.GITHUB_TOKEN}}@github.com/${{ secrets.PROJECT_SOURCE_GIT_URL }}.git source
+          cat https://${{secrets.GITHUB_TOKEN}}@github.com/${{secrets.PROJECT_SOURCE_GIT_URL}}.git
+          git clone https://${{secrets.GITHUB_TOKEN}}@github.com/${{secrets.PROJECT_SOURCE_GIT_URL}}.git source
           git clone ${{ secrets.PROJECT_TARGET_GIT_URL }} target
       
       - name: Setup .NET Core SDK
