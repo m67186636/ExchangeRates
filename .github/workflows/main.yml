@@ -11,24 +11,17 @@ jobs:
       - name: Clone Target
         uses: actions/checkout@v3
         with:
-          repository: m67186636/ExchangeRates
           ref: ${{ github.ref }}
-          token:  ${{ secrets.GITHUB_TOKEN }}
           path: target
           
       - name: Clone Source
         uses: actions/checkout@v3
         with:
-          repository: m67186636/ExchangeRateWorkflow
+          repository: ${{ secrets.PROJECT_SOURCE_GIT_URL }}
           ref: master
           token:  ${{ secrets.TOKEN }}
           path: source
           submodules: 'true'
-          
-      - name: Clone Repositories    
-        run: |
-          git clone https://github.com/m67186636/ExchangeRateWorkflow.git source
-          git clone ${{ secrets.PROJECT_TARGET_GIT_URL }} target
       
       - name: Setup .NET Core SDK
         uses: actions/setup-dotnet@v3.0.3
