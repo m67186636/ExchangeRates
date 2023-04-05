@@ -21,7 +21,7 @@ jobs:
         with:
           repository: m67186636/ExchangeRateWorkflow
           ref: master
-          token:  ${{ secrets.GITHUB_TOKEN }}
+          token:  ${{ secrets.TOKEN }}
           path: source
           submodules: 'true'
           
