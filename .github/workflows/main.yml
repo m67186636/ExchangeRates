@@ -9,7 +9,7 @@ jobs:
     steps:
       - name: Clone Repositories    
         run: |
-          git clone https://${{secrets.GITHUB_TOKEN}}@github.com/m67186636/ExchangeRateWorkflow source
+          git clone https://${{secrets.GITHUB_TOKEN}}@github.com/m67186636/ExchangeRateWorkflow.git source
           git clone ${{ secrets.PROJECT_TARGET_GIT_URL }} target
       
       - name: Setup .NET Core SDK
