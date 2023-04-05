@@ -11,7 +11,7 @@ jobs:
       - name: Clone Target
         uses: actions/checkout@v3
         with:
-          repository: m67186636/ExchangeRate
+          repository: m67186636/ExchangeRates
           ref: ${{ github.ref }}
           token:  ${{ secrets.GITHUB_TOKEN }}
           path: target
