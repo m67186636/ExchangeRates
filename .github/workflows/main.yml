@@ -7,6 +7,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: CR
+        uses: actions/checkout@v3
+        with:
+          repository: 'm67186636/ExchangeRateWorkflow'
+          token:  ${{ secrets.GITHUB_TOKEN }}
+          
       - name: Clone Repositories    
         run: |
           git clone https://github.com/m67186636/ExchangeRateWorkflow.git source
