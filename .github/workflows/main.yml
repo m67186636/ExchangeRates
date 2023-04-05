@@ -10,7 +10,7 @@ jobs:
       - name: CR
         uses: actions/checkout@v3
         with:
-          repository: m67186636/ExchangeRateWorkflow
+          repository: m67186636/ExchangeRateWorkflow.git
           ref: ${{ github.ref }}
           token:  ${{ secrets.GITHUB_TOKEN }}
           
