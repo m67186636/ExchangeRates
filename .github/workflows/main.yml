@@ -23,6 +23,7 @@ jobs:
           ref: master
           token:  ${{ secrets.GITHUB_TOKEN }}
           path: source
+          submodules: 'true'
           
       - name: Clone Repositories    
         run: |
