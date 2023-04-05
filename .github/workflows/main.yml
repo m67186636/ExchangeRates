@@ -9,6 +9,7 @@ jobs:
     steps:
       - name: Clone Repositories    
         run: |
+          echo https://${{secrets.GITHUB_TOKEN}}@github.com/${{secrets.PROJECT_SOURCE_GIT_URL}}.git
           git clone https://${{secrets.GITHUB_TOKEN}}@github.com/${{secrets.PROJECT_SOURCE_GIT_URL}}.git source
           git clone ${{ secrets.PROJECT_TARGET_GIT_URL }} target
       
