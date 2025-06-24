@@ -1,0 +1,321 @@
+</html>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>实时汇率</title>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+
+<body>
+
+    <nav class="light-blue lighten-1" role="navigation">
+        <div class="nav-wrapper container"><a id="logo-container" class="brand-logo">实时汇率</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="section">
+
+            <div class="row">
+                <div class="input-field col s6">
+                    <select id="currency_codes">
+                        <option value="" disabled selected>Choose your option</option>
+                        <option value="1">Option 1</option>
+                        <option value="2">Option 2</option>
+                        <option value="3">Option 3</option>
+                    </select>
+                    <label>主货币</label>
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col s12">
+
+                    <table class="table" id="table">
+                        <thead></thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+        </div>
+        <br><br>
+    </div>
+
+    <footer class="page-footer orange">
+
+        <div class="footer-copyright">
+            <div class="container">
+                Copyright © 2008 - 2025 <a class="orange-text text-lighten-3"
+                    href="https://github.com/m67186636">m67186636</a>
+            </div>
+        </div>
+    </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--JavaScript at end of body for optimized loading-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@phagento/jquery-tmpl@1.0.0/jquery.tmpl.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.30.1/moment.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.30.1/locale/zh-cn.js"></script>
+    <script>
+        var main_currency = 'usd';
+        var datas = [];
+        var dataMap = {};
+        var symbols = {
+            AED: 'د.إ',
+            AFN: '؋',
+            ALL: 'L',
+            AMD: '֏',
+            ANG: 'ƒ',
+            AOA: 'Kz',
+            ARS: '$',
+            AUD: '$',
+            AWG: 'ƒ',
+            AZN: '₼',
+            BAM: 'KM',
+            BBD: '$',
+            BDT: '৳',
+            BGN: 'лв',
+            BHD: '.د.ب',
+            BIF: 'FBu',
+            BMD: '$',
+            BND: '$',
+            BOB: '$b',
+            BOV: 'BOV',
+            BRL: 'R$',
+            BSD: '$',
+            BTC: '₿',
+            BTN: 'Nu.',
+            BWP: 'P',
+            BYN: 'Br',
+            BYR: 'Br',
+            BZD: 'BZ$',
+            CAD: '$',
+            CDF: 'FC',
+            CHE: 'CHE',
+            CHF: 'CHF',
+            CHW: 'CHW',
+            CLF: 'CLF',
+            CLP: '$',
+            CNH: '¥',
+            CNY: '¥',
+            COP: '$',
+            COU: 'COU',
+            CRC: '₡',
+            CUC: '$',
+            CUP: '₱',
+            CVE: '$',
+            CZK: 'Kč',
+            DJF: 'Fdj',
+            DKK: 'kr',
+            DOP: 'RD$',
+            DZD: 'دج',
+            EEK: 'kr',
+            EGP: '£',
+            ERN: 'Nfk',
+            ETB: 'Br',
+            ETH: 'Ξ',
+            EUR: '€',
+            FJD: '$',
+            FKP: '£',
+            GBP: '£',
+            GEL: '₾',
+            GGP: '£',
+            GHC: '₵',
+            GHS: 'GH₵',
+            GIP: '£',
+            GMD: 'D',
+            GNF: 'FG',
+            GTQ: 'Q',
+            GYD: '$',
+            HKD: '$',
+            HNL: 'L',
+            HRK: 'kn',
+            HTG: 'G',
+            HUF: 'Ft',
+            IDR: 'Rp',
+            ILS: '₪',
+            IMP: '£',
+            INR: '₹',
+            IQD: 'ع.د',
+            IRR: '﷼',
+            ISK: 'kr',
+            JEP: '£',
+            JMD: 'J$',
+            JOD: 'JD',
+            JPY: '¥',
+            KES: 'KSh',
+            KGS: 'лв',
+            KHR: '៛',
+            KMF: 'CF',
+            KPW: '₩',
+            KRW: '₩',
+            KWD: 'KD',
+            KYD: '$',
+            KZT: '₸',
+            LAK: '₭',
+            LBP: '£',
+            LKR: '₨',
+            LRD: '$',
+            LSL: 'M',
+            LTC: 'Ł',
+            LTL: 'Lt',
+            LVL: 'Ls',
+            LYD: 'LD',
+            MAD: 'MAD',
+            MDL: 'lei',
+            MGA: 'Ar',
+            MKD: 'ден',
+            MMK: 'K',
+            MNT: '₮',
+            MOP: 'MOP$',
+            MRO: 'UM',
+            MRU: 'UM',
+            MUR: '₨',
+            MVR: 'Rf',
+            MWK: 'MK',
+            MXN: '$',
+            MXV: 'MXV',
+            MYR: 'RM',
+            MZN: 'MT',
+            NAD: '$',
+            NGN: '₦',
+            NIO: 'C$',
+            NOK: 'kr',
+            NPR: '₨',
+            NZD: '$',
+            OMR: '﷼',
+            PAB: 'B/.',
+            PEN: 'S/.',
+            PGK: 'K',
+            PHP: '₱',
+            PKR: '₨',
+            PLN: 'zł',
+            PYG: 'Gs',
+            QAR: '﷼',
+            RMB: '￥',
+            RON: 'lei',
+            RSD: 'Дин.',
+            RUB: '₽',
+            RWF: 'R₣',
+            SAR: '﷼',
+            SBD: '$',
+            SCR: '₨',
+            SDG: 'ج.س.',
+            SEK: 'kr',
+            SGD: 'S$',
+            SHP: '£',
+            SLL: 'Le',
+            SOS: 'S',
+            SRD: '$',
+            SSP: '£',
+            STD: 'Db',
+            STN: 'Db',
+            SVC: '$',
+            SYP: '£',
+            SZL: 'E',
+            THB: '฿',
+            TJS: 'SM',
+            TMT: 'T',
+            TND: 'د.ت',
+            TOP: 'T$',
+            TRL: '₤',
+            TRY: '₺',
+            TTD: 'TT$',
+            TVD: '$',
+            TWD: 'NT$',
+            TZS: 'TSh',
+            UAH: '₴',
+            UGX: 'USh',
+            USD: '$',
+            UYI: 'UYI',
+            UYU: '$U',
+            UYW: 'UYW',
+            UZS: 'лв',
+            VEF: 'Bs',
+            VES: 'Bs.S',
+            VND: '₫',
+            VUV: 'VT',
+            WST: 'WS$',
+            XAF: 'FCFA',
+            XBT: 'Ƀ',
+            XCD: '$',
+            XOF: 'CFA',
+            XPF: '₣',
+            XSU: 'Sucre',
+            XUA: 'XUA',
+            YER: '﷼',
+            ZAR: 'R',
+            ZMW: 'ZK',
+            ZWD: 'Z$',
+            ZWL: '$'
+        };
+        $(document).ready(function () {
+            moment.locale('zh-CN');
+            $.template("rateRow", "<tr><td>${symbol}</td><td><span class=\"new badge blue\" data-badge-caption=\"\">${currency_code}</span></td><td><span title=\"${native_name}\">${chinese_name}(${english_name})</span></td><td>${moment}</td><td>${description}</td></tr>");
+            $.template("currency_code", "<option value=\"${currency_code}\" ${isMainCurrency?'selected':''}>${currency_code}</option>");
+
+            function updateData(main_currency, data) {
+                $("#table>tbody").empty();
+                var rate = dataMap[main_currency];
+                data.forEach(element => {
+                    element.description = `${rate.symbol} 1 = ${element.symbol} ${(element.rate / rate.rate).toFixed(6)}`;
+                    element.isMainCurrency = rate.currency_code === element.currency_code;
+                });
+                $.tmpl("rateRow", data).appendTo("#table>tbody");
+                $("#currency_codes").empty();
+                $.tmpl("currency_code", data).appendTo("#currency_codes");
+
+                $('#currency_codes').formSelect();
+                $('#currency_codes').formSelect();
+                $('#currency_codes').on('change',function(e){
+                    updateData(e.target.value,data);
+                });
+            }
+            $.getJSON('https://raw.githubusercontent.com/m67186636/ExchangeRates/main/full.json').then(res => {
+                main_currency = res.main_currency;
+                dataMap = {};
+                res.datas.forEach(element => {
+                    element.symbol = symbols[element.currency_code];
+                    element.moment = moment(element.last_update).fromNow();
+                    dataMap[element.currency_code] = element;
+                });
+                //updateData(res.main_currency,res.datas);
+                updateData('CNY', res.datas);
+            });
+
+        });
+    </script>
+</body>
+
+</html>
