@@ -301,12 +301,12 @@
                     updateData(e.target.value,data);
                 });
             }
-            $.getJSON('https://raw.githubusercontent.com/m67186636/ExchangeRates/main/full.json').then(res => {
+            $.getJSON('/full.json').then(res => {
                 main_currency = res.main_currency;
                 dataMap = {};
                 res.datas.forEach(element => {
                     element.symbol = symbols[element.currency_code];
-                    element.moment = moment(element.last_update).add(moment().utcOffset(),'m').fromNow();
+                    element.moment = moment(element.updated_at).fromNow();
                     dataMap[element.currency_code] = element;
                 });
                 //updateData(res.main_currency,res.datas);
