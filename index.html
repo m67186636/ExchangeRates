@@ -306,7 +306,7 @@
                 dataMap = {};
                 res.datas.forEach(element => {
                     element.symbol = symbols[element.currency_code];
-                    element.moment = moment(element.last_update).fromNow();
+                    element.moment = moment(element.last_update).add(moment().utcOffset(),'m').fromNow();
                     dataMap[element.currency_code] = element;
                 });
                 //updateData(res.main_currency,res.datas);
