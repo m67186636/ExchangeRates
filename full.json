@@ -72,15 +72,15 @@
       "english_name": "Barbadian Dollar",
       "native_name": "Barbadian Dollar",
       "chinese_name": "巴巴多斯元",
-      "updated_at": 1760943601000
+      "updated_at": 1760947201000
     },
     {
-      "rate": 121.87728727,
+      "rate": 121.87522306,
       "currency_code": "BDT",
       "english_name": "Bangladeshi Taka",
       "native_name": "বাংলাদেশী টাকা,𑄝𑄁𑄣𑄘𑄬𑄥𑄨 𑄑𑄬𑄋",
       "chinese_name": "孟加拉塔卡",
-      "updated_at": 1760943601000
+      "updated_at": 1760947201000
     },
     {
       "rate": 1.677058,
@@ -112,7 +112,7 @@
       "english_name": "Bermudan Dollar",
       "native_name": "Bermudian Dollar",
       "chinese_name": "百慕大元",
-      "updated_at": 1760943601000
+      "updated_at": 1760947201000
     },
     {
       "rate": 1.297338,
@@ -123,12 +123,12 @@
       "updated_at": 1760945100000
     },
     {
-      "rate": 6.92558126,
+      "rate": 6.92557493,
       "currency_code": "BOB",
       "english_name": "Bolivian Boliviano",
       "native_name": "boliviano,Boliviano",
       "chinese_name": "玻利维亚币",
-      "updated_at": 1760943601000
+      "updated_at": 1760947201000
     },
     {
       "rate": 5.4346,
@@ -144,7 +144,7 @@
       "english_name": "Bahamian Dollar",
       "native_name": "Bahamian Dollar",
       "chinese_name": "巴哈马元",
-      "updated_at": 1760943601000
+      "updated_at": 1760947201000
     },
     {
       "rate": 13.427737,
@@ -155,12 +155,12 @@
       "updated_at": 1760945100000
     },
     {
-      "rate": 3.3409063,
+      "rate": 3.34105418,
       "currency_code": "BYN",
       "english_name": "Belarusian Ruble",
       "native_name": "беларускі рубель,белорусский рубль",
       "chinese_name": "白俄罗斯卢布",
-      "updated_at": 1760943601000
+      "updated_at": 1760947201000
     },
     {
       "rate": 2.0,
@@ -168,7 +168,7 @@
       "english_name": "Belize Dollar",
       "native_name": "Belize Dollar,dólar beliceño",
       "chinese_name": "伯利兹元",
-      "updated_at": 1760943601000
+      "updated_at": 1760947201000
     },
     {
       "rate": 1.402371,
@@ -211,12 +211,12 @@
       "updated_at": 1760945100000
     },
     {
-      "rate": 502.8312994,
+      "rate": 502.83080765,
       "currency_code": "CRC",
       "english_name": "Costa Rican Colón",
       "native_name": "colón costarricense",
       "chinese_name": "哥斯达黎加科郎",
-      "updated_at": 1760943601000
+      "updated_at": 1760947201000
     },
     {
       "rate": 24.0,
@@ -224,7 +224,7 @@
       "english_name": "Cuban Peso",
       "native_name": "peso cubano",
       "chinese_name": "古巴比索",
-      "updated_at": 1760943601000
+      "updated_at": 1760947201000
     },
     {
       "rate": 94.516628,
@@ -283,12 +283,12 @@
       "updated_at": 1760945100000
     },
     {
-      "rate": 147.75870903,
+      "rate": 147.78553085,
       "currency_code": "ETB",
       "english_name": "Ethiopian Birr",
       "native_name": "የኢትዮጵያ ብር,Itoophiyaa Birrii,Birta Itoobbiya,ብር",
       "chinese_name": "埃塞俄比亚比尔",
-      "updated_at": 1760943601000
+      "updated_at": 1760947201000
     },
     {
       "rate": 0.857498,
@@ -504,7 +504,7 @@
       "english_name": "Cayman Islands Dollar",
       "native_name": "Cayman Islands Dollar",
       "chinese_name": "开曼群岛元",
-      "updated_at": 1760943601000
+      "updated_at": 1760947201000
     },
     {
       "rate": 539.052614,
@@ -595,12 +595,12 @@
       "updated_at": 1760945100000
     },
     {
-      "rate": 1735.40120129,
+      "rate": 1742.61855686,
       "currency_code": "MWK",
       "english_name": "Malawian Kwacha",
       "native_name": "Malawian Kwacha",
       "chinese_name": "马拉维客瓦查",
-      "updated_at": 1760943601000
+      "updated_at": 1760947201000
     },
     {
       "rate": 18.38236,
@@ -627,12 +627,12 @@
       "updated_at": 1760945100000
     },
     {
-      "rate": 1468.4396186,
+      "rate": 1468.43994449,
       "currency_code": "NGN",
       "english_name": "Nigerian Naira",
       "native_name": "Nigerian Naira,𞤐𞤢𞤴𞤪𞤢 𞤐𞤢𞤶𞤭𞤪𞤢𞤴𞤢𞤲𞤳𞤮,Nayraa Nijeriyaa,Nairar Najeriya,Naịra,Naijíriá Naíra,Náírà Nàìjíríà",
       "chinese_name": "尼日利亚奈拉",
-      "updated_at": 1760943601000
+      "updated_at": 1760947201000
     },
     {
       "rate": 36.87592,
@@ -680,7 +680,7 @@
       "english_name": "Panamanian Balboa",
       "native_name": "balboa panameño",
       "chinese_name": "巴拿马巴波亚",
-      "updated_at": 1760943601000
+      "updated_at": 1760947201000
     },
     {
       "rate": 3.392893,
@@ -896,7 +896,7 @@
       "english_name": "US Dollar",
       "native_name": "US ᎠᏕᎳ,US Dollar,dólar estadounidense,USD,Dola yase Amelika,Amerikaanse dollar,dólar dos Estados Unidos,Dólar Americano,Dora re Amerika",
       "chinese_name": "美元",
-      "updated_at": 1760945232121
+      "updated_at": 1760949306413
     },
     {
       "rate": 39.966372,
@@ -920,7 +920,7 @@
       "english_name": "Venezuelan Bolívar",
       "native_name": "bolívar soberano,Buriwari Wenesuerawara",
       "chinese_name": "委内瑞拉玻利瓦尔",
-      "updated_at": 1760943601000
+      "updated_at": 1760947201000
     },
     {
       "rate": 26343.519494,
@@ -944,7 +944,7 @@
       "english_name": "East Caribbean Dollar",
       "native_name": "East Caribbean Dollar",
       "chinese_name": "东加勒比元",
-      "updated_at": 1760943601000
+      "updated_at": 1760947201000
     },
     {
       "rate": 562.481593,
