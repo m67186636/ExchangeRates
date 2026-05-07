@@ -8,7 +8,7 @@
       "english_name": "United Arab Emirates Dirham",
       "native_name": "\u062F\u0631\u0647\u0645 \u0625\u0645\u0627\u0631\u0627\u062A\u064A,United Arab Emirates Dirham",
       "chinese_name": "\u963F\u8054\u914B\u8FEA\u62C9\u59C6",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 63.999997,
@@ -16,7 +16,7 @@
       "english_name": "Afghan Afghani",
       "native_name": "\u0627\u0641\u063A\u0627\u0646\u06CC \u0627\u0641\u063A\u0627\u0646\u0633\u062A\u0627\u0646,\u0627\u0641\u063A\u0627\u0646\u06CD,\u0627\u0641\u063A\u0627\u0646\u06CC",
       "chinese_name": "\u963F\u5BCC\u6C57\u5C3C",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 81.375205,
@@ -24,7 +24,7 @@
       "english_name": "Albanian Lek",
       "native_name": "Leku shqiptar",
       "chinese_name": "\u963F\u5C14\u5DF4\u5C3C\u4E9A\u5217\u514B",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 369.45673,
@@ -32,7 +32,7 @@
       "english_name": "Armenian Dram",
       "native_name": "\u0570\u0561\u0575\u056F\u0561\u056F\u0561\u0576 \u0564\u0580\u0561\u0574",
       "chinese_name": "\u4E9A\u7F8E\u5C3C\u4E9A\u5FB7\u62C9\u59C6",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 1.79,
@@ -40,31 +40,31 @@
       "english_name": "Netherlands Antillean Guilder",
       "native_name": "Netherlands Antillean Guilder,Nederlands-Antilliaanse gulden",
       "chinese_name": "\u8377\u5C5E\u5B89\u7684\u5217\u65AF\u76FE",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 916.372,
+      "rate": 913.116,
       "currency_code": "AOA",
       "english_name": "Angolan Kwanza",
       "native_name": "Kwanza ya Ang\u00F3la,kwanza angolano",
       "chinese_name": "\u5B89\u54E5\u62C9\u5BBD\u624E",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 1387.5611,
+      "rate": 1387.73815,
       "currency_code": "ARS",
       "english_name": "Argentine Peso",
       "native_name": "peso argentino",
       "chinese_name": "\u963F\u6839\u5EF7\u6BD4\u7D22",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 1.379758,
+      "rate": 1.379207,
       "currency_code": "AUD",
       "english_name": "Australian Dollar",
       "native_name": "Australian Dollar",
       "chinese_name": "\u6FB3\u5927\u5229\u4E9A\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 1.80125,
@@ -72,7 +72,7 @@
       "english_name": "Aruban Florin",
       "native_name": "Arubaanse gulden",
       "chinese_name": "\u963F\u9C81\u5DF4\u5F17\u7F57\u6797",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 1.7,
@@ -80,7 +80,7 @@
       "english_name": "Azerbaijani Manat",
       "native_name": "AZN,Az\u0259rbaycan Manat\u0131",
       "chinese_name": "\u963F\u585E\u62DC\u7586\u9A6C\u7EB3\u7279",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 1.65949,
@@ -88,7 +88,7 @@
       "english_name": "Bosnia-Herzegovina Convertible Mark",
       "native_name": "\u041A\u043E\u043D\u0432\u0435\u0440\u0442\u0438\u0431\u0438\u043B\u043D\u0430 \u043C\u0430\u0440\u043A\u0430,Bosanskohercegova\u010Dka konvertibilna marka,konvertibilna marka,\u0411\u043E\u0441\u0430\u043D\u0441\u043A\u043E\u0445\u0435\u0440\u0446\u0435\u0433\u043E\u0432\u0430\u0447\u043A\u0430 \u043A\u043E\u043D\u0432\u0435\u0440\u0442\u0438\u0431\u0438\u043B\u043D\u0430 \u043C\u0430\u0440\u043A\u0430",
       "chinese_name": "\u6CE2\u9ED1\u53EF\u5151\u6362\u9A6C\u514B",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 2,
@@ -96,7 +96,7 @@
       "english_name": "Barbadian Dollar",
       "native_name": "Barbadian Dollar",
       "chinese_name": "\u5DF4\u5DF4\u591A\u65AF\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 122.963591,
@@ -104,15 +104,15 @@
       "english_name": "Bangladeshi Taka",
       "native_name": "\u09AC\u09BE\u0982\u09B2\u09BE\u09A6\u09C7\u09B6\u09C0 \u099F\u09BE\u0995\u09BE,\uD804\uDD1D\uD804\uDD01\uD804\uDD23\uD804\uDD18\uD804\uDD2C\uD804\uDD25\uD804\uDD28 \uD804\uDD11\uD804\uDD2C\uD804\uDD0B",
       "chinese_name": "\u5B5F\u52A0\u62C9\u5854\u5361",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 1.664308,
+      "rate": 1.664643,
       "currency_code": "BGN",
       "english_name": "Bulgarian Lev",
       "native_name": "\u0411\u044A\u043B\u0433\u0430\u0440\u0441\u043A\u0438 \u043B\u0435\u0432",
       "chinese_name": "\u4FDD\u52A0\u5229\u4E9A\u5217\u5F17",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 0.379212,
@@ -120,7 +120,7 @@
       "english_name": "Bahraini Dinar",
       "native_name": "\u062F\u064A\u0646\u0627\u0631 \u0628\u062D\u0631\u064A\u0646\u064A",
       "chinese_name": "\u5DF4\u6797\u7B2C\u7EB3\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 2989.422906,
@@ -128,7 +128,7 @@
       "english_name": "Burundian Franc",
       "native_name": "Burundian Franc,franc burundais,Ifaranga ry\u2019Uburundi",
       "chinese_name": "\u5E03\u9686\u8FEA\u6CD5\u90CE",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 1,
@@ -136,7 +136,7 @@
       "english_name": "Bermudan Dollar",
       "native_name": "Bermudian Dollar",
       "chinese_name": "\u767E\u6155\u5927\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 1.270424,
@@ -144,7 +144,7 @@
       "english_name": "Brunei Dollar",
       "native_name": "Dolar Brunei",
       "chinese_name": "\u6587\u83B1\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 6.911824,
@@ -152,15 +152,15 @@
       "english_name": "Bolivian Boliviano",
       "native_name": "boliviano,Boliviano",
       "chinese_name": "\u73BB\u5229\u7EF4\u4E9A\u8BFA",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 4.939,
+      "rate": 4.9229,
       "currency_code": "BRL",
       "english_name": "Brazilian Real",
       "native_name": "real brasile\u00F1o,Mrasir Rejar,Real brasileiro,Reau Brasiuwara",
       "chinese_name": "\u5DF4\u897F\u96F7\u4E9A\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 1,
@@ -168,7 +168,7 @@
       "english_name": "Bahamian Dollar",
       "native_name": "Bahamian Dollar",
       "chinese_name": "\u5DF4\u54C8\u9A6C\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 94.642611,
@@ -176,7 +176,7 @@
       "english_name": "Bhutanese Ngultrum",
       "native_name": "\u0F51\u0F44\u0F74\u0F63\u0F0B\u0F40\u0FB2\u0F58",
       "chinese_name": "\u4E0D\u4E39\u52AA\u5C14\u7279\u9C81\u59C6",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 13.42776,
@@ -184,7 +184,7 @@
       "english_name": "Botswanan Pula",
       "native_name": "Botswanan Pula",
       "chinese_name": "\u535A\u8328\u74E6\u7EB3\u666E\u62C9",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 2.824803,
@@ -192,7 +192,7 @@
       "english_name": "Belarusian Ruble",
       "native_name": "\u0431\u0435\u043B\u0430\u0440\u0443\u0441\u043A\u0456 \u0440\u0443\u0431\u0435\u043B\u044C,\u0431\u0435\u043B\u043E\u0440\u0443\u0441\u0441\u043A\u0438\u0439 \u0440\u0443\u0431\u043B\u044C",
       "chinese_name": "\u767D\u4FC4\u7F57\u65AF\u5362\u5E03",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 2.011777,
@@ -200,15 +200,15 @@
       "english_name": "Belize Dollar",
       "native_name": "Belize Dollar,d\u00F3lar belice\u00F1o",
       "chinese_name": "\u4F2F\u5229\u5179\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 1.363558,
+      "rate": 1.363714,
       "currency_code": "CAD",
       "english_name": "Canadian Dollar",
       "native_name": "CAD,Canadian Dollar,dollar canadien",
       "chinese_name": "\u52A0\u62FF\u5927\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 2321.835267,
@@ -216,15 +216,15 @@
       "english_name": "Congolese Franc",
       "native_name": "franc congolais,Fal\u00E1nga ya Kong\u00F3,Nfalanga wa Kongu,Faranga ya Kongo",
       "chinese_name": "\u521A\u679C\u6CD5\u90CE",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 0.778993,
+      "rate": 0.778486,
       "currency_code": "CHF",
       "english_name": "Swiss Franc",
       "native_name": "Schweizer Franken,Swiss Franc,franc suisse,Schwiizer Franke,franco svizzero,franco su\u00ED\u00E7o,franc svizzer,CHF",
       "chinese_name": "\u745E\u58EB\u6CD5\u90CE",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 896.69,
@@ -232,23 +232,23 @@
       "english_name": "Chilean Peso",
       "native_name": "Peso chileno",
       "chinese_name": "\u667A\u5229\u6BD4\u7D22",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 6.8064,
+      "rate": 6.8031,
       "currency_code": "CNY",
       "english_name": "Chinese Yuan",
       "native_name": "\u0F61\u0F74\u0F0B\u0F68\u0F53\u0F0B,CNY,\uC911\uAD6D \uC704\uC548\uD654,\u062C\u06C7\u06AD\u06AF\u0648 \u064A\u06C8\u06D5\u0646\u0649,\u4EBA\u6C11\u5E01",
       "chinese_name": "\u4EBA\u6C11\u5E01",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 3713.130223,
+      "rate": 3714.025153,
       "currency_code": "COP",
       "english_name": "Colombian Peso",
       "native_name": "peso colombiano,Peso Kur\u0169biyawara",
       "chinese_name": "\u54E5\u4F26\u6BD4\u4E9A\u6BD4\u7D22",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 456.404369,
@@ -256,7 +256,7 @@
       "english_name": "Costa Rican Col\u00F3n",
       "native_name": "col\u00F3n costarricense",
       "chinese_name": "\u54E5\u65AF\u8FBE\u9ECE\u52A0\u79D1\u6717",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 25.75,
@@ -264,7 +264,7 @@
       "english_name": "Cuban Peso",
       "native_name": "peso cubano",
       "chinese_name": "\u53E4\u5DF4\u6BD4\u7D22",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 93.95,
@@ -272,15 +272,15 @@
       "english_name": "Cape Verdean Escudo",
       "native_name": "Skudu Kabuverdianu,escudo cabo-verdiano",
       "chinese_name": "\u4F5B\u5F97\u89D2\u57C3\u65AF\u5E93\u591A",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 20.70222,
+      "rate": 20.7064,
       "currency_code": "CZK",
       "english_name": "Czech Koruna",
       "native_name": "\u010Desk\u00E1 koruna",
       "chinese_name": "\u6377\u514B\u514B\u6717",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 178.693526,
@@ -288,15 +288,15 @@
       "english_name": "Djiboutian Franc",
       "native_name": "\u0641\u0631\u0646\u0643 \u062C\u064A\u0628\u0648\u062A\u064A,franc djiboutien,Faran Jabuuti",
       "chinese_name": "\u5409\u5E03\u63D0\u6CD5\u90CE",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 6.359293,
+      "rate": 6.360859,
       "currency_code": "DKK",
       "english_name": "Danish Krone",
       "native_name": "dansk krone,Danish Krone,donsk kr\u00F3na,DKK",
       "chinese_name": "\u4E39\u9EA6\u514B\u6717",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 59.788652,
@@ -304,23 +304,23 @@
       "english_name": "Dominican Peso",
       "native_name": "peso dominicano",
       "chinese_name": "\u591A\u7C73\u5C3C\u52A0\u6BD4\u7D22",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 132.282361,
+      "rate": 132.189499,
       "currency_code": "DZD",
       "english_name": "Algerian Dinar",
       "native_name": "\u062F\u064A\u0646\u0627\u0631 \u062C\u0632\u0627\u0626\u0631\u064A,dinar alg\u00E9rien,Adinar Azzayri",
       "chinese_name": "\u963F\u5C14\u53CA\u5229\u4E9A\u7B2C\u7EB3\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 52.719993,
+      "rate": 52.7248,
       "currency_code": "EGP",
       "english_name": "Egyptian Pound",
       "native_name": "\u062C\u0646\u064A\u0647 \u0645\u0635\u0631\u064A",
       "chinese_name": "\u57C3\u53CA\u9551",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 15,
@@ -328,7 +328,7 @@
       "english_name": "Eritrean Nakfa",
       "native_name": "\u0646\u0627\u0643\u0641\u0627 \u0623\u0631\u064A\u062A\u0631\u064A,Eritrean Nakfa,\u1293\u1255\u134B",
       "chinese_name": "\u5384\u7ACB\u7279\u91CC\u4E9A\u7EB3\u514B\u6CD5",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 156.686824,
@@ -336,39 +336,39 @@
       "english_name": "Ethiopian Birr",
       "native_name": "\u12E8\u12A2\u1275\u12EE\u1335\u12EB \u1265\u122D,Itoophiyaa Birrii,Birta Itoobbiya,\u1265\u122D",
       "chinese_name": "\u57C3\u585E\u4FC4\u6BD4\u4E9A\u6BD4\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 0.850995,
+      "rate": 0.851203,
       "currency_code": "EUR",
       "english_name": "Euro",
       "native_name": "euro,Euro,\u0395\u03C5\u03C1\u03CE,euroa,EUR,Euras,eiro,ewro,\u00E8uro,evro,Euroja,Evro,\u0415\u0432\u0440\u043E",
       "chinese_name": "\u6B27\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 2.18395,
+      "rate": 2.183,
       "currency_code": "FJD",
       "english_name": "Fijian Dollar",
       "native_name": "Fijian Dollar",
       "chinese_name": "\u6590\u6D4E\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 0.735429,
+      "rate": 0.735285,
       "currency_code": "FKP",
       "english_name": "Falkland Islands Pound",
       "native_name": "Falkland Islands Pound",
       "chinese_name": "\u798F\u514B\u5170\u7FA4\u5C9B\u9551",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 0.735429,
+      "rate": 0.735285,
       "currency_code": "GBP",
       "english_name": "British Pound",
       "native_name": "Punt Prydain,British Pound,UK Pound,Punt Steirling,Punnd Sasannach,GBP",
       "chinese_name": "\u82F1\u9551",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 2.68,
@@ -376,7 +376,7 @@
       "english_name": "Georgian Lari",
       "native_name": "\u10E5\u10D0\u10E0\u10D7\u10E3\u10DA\u10D8 \u10DA\u10D0\u10E0\u10D8,\u041B\u0430\u0440",
       "chinese_name": "\u683C\u9C81\u5409\u4E9A\u62C9\u91CC",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 11.252268,
@@ -384,15 +384,15 @@
       "english_name": "Ghanaian Cedi",
       "native_name": "Ghana Sidi,ghana si\u0256i,Ghanaian Cedi,\uD83A\uDD05\uD83A\uDD2D\uD83A\uDD23\uD83A\uDD2D \uD83A\uDD18\uD83A\uDD22\uD83A\uDD32\uD83A\uDD22\uD83A\uDD32\uD83A\uDD33\uD83A\uDD2E,GHS,Sidi na Ghana",
       "chinese_name": "\u52A0\u7EB3\u585E\u5730",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 0.735429,
+      "rate": 0.735285,
       "currency_code": "GIP",
       "english_name": "Gibraltar Pound",
       "native_name": "Gibraltar Pound",
       "chinese_name": "\u76F4\u5E03\u7F57\u9640\u9551",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 73.500003,
@@ -400,7 +400,7 @@
       "english_name": "Gambian Dalasi",
       "native_name": "Gambian Dalasi,\uD83A\uDD01\uD83A\uDD22\uD83A\uDD24\uD83A\uDD22\uD83A\uDD27\uD83A\uDD2D \uD83A\uDD18\uD83A\uDD22\uD83A\uDD25\uD83A\uDD26\uD83A\uDD2D\uD83A\uDD32\uD83A\uDD33\uD83A\uDD2E,Dalasi Gammbi",
       "chinese_name": "\u5188\u6BD4\u4E9A\u8FBE\u62C9\u897F",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 8807.390837,
@@ -408,7 +408,7 @@
       "english_name": "Guinean Franc",
       "native_name": "\uD83A\uDD0A\uD83A\uDD22\uD83A\uDD2A\uD83A\uDD22\uD83A\uDD32 \uD83A\uDD18\uD83A\uDD2D\uD83A\uDD32\uD83A\uDD2B\uD83A\uDD32\uD83A\uDD33\uD83A\uDD2E,GNF,franc guin\u00E9en,\u07D6\u07CC\u07EC\u07E3\u07CD\u07EC\u07DE\u07CA \u07DF\u07CE\u07EC \u07DF\u07CA\u07EB \u07DD\u07CA\u07D9\u07CA\u07F2",
       "chinese_name": "\u51E0\u5185\u4E9A\u6CD5\u90CE",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 7.635589,
@@ -416,7 +416,7 @@
       "english_name": "Guatemalan Quetzal",
       "native_name": "quetzal",
       "chinese_name": "\u5371\u5730\u9A6C\u62C9\u683C\u67E5\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 209.238376,
@@ -424,15 +424,15 @@
       "english_name": "Guyanaese Dollar",
       "native_name": "Guyanaese Dollar",
       "chinese_name": "\u572D\u4E9A\u90A3\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 7.832494,
+      "rate": 7.831574,
       "currency_code": "HKD",
       "english_name": "Hong Kong Dollar",
       "native_name": "Hong Kong Dollar,\u6E2F\u5E63,\u6E2F\u5143",
       "chinese_name": "\u6E2F\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 26.677732,
@@ -440,7 +440,7 @@
       "english_name": "Honduran Lempira",
       "native_name": "lempira hondure\u00F1o",
       "chinese_name": "\u6D2A\u90FD\u62C9\u65AF\u4F26\u76AE\u62C9",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 130.892895,
@@ -448,39 +448,39 @@
       "english_name": "Haitian Gourde",
       "native_name": "gourde ha\u00EFtienne",
       "chinese_name": "\u6D77\u5730\u53E4\u5FB7",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 304.757012,
+      "rate": 304.370692,
       "currency_code": "HUF",
       "english_name": "Hungarian Forint",
       "native_name": "magyar forint",
       "chinese_name": "\u5308\u7259\u5229\u798F\u6797",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 17355.925581,
+      "rate": 17356.071171,
       "currency_code": "IDR",
       "english_name": "Indonesian Rupiah",
       "native_name": "Indonesian Rupiah,Rupiah Indonesia,Rupee Indon\u00E9sia",
       "chinese_name": "\u5370\u5C3C\u76FE",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 2.9087,
+      "rate": 2.905267,
       "currency_code": "ILS",
       "english_name": "Israeli New Shekel",
       "native_name": "\u0634\u064A\u0643\u0644 \u0625\u0633\u0631\u0627\u0626\u064A\u0644\u064A \u062C\u062F\u064A\u062F,Israeli New Shekel,\u05E9\u05E7\u05DC \u05D7\u05D3\u05E9",
       "chinese_name": "\u4EE5\u8272\u5217\u65B0\u8C22\u514B\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 94.827946,
+      "rate": 94.649648,
       "currency_code": "INR",
       "english_name": "Indian Rupee",
       "native_name": "\u09AD\u09BE\u09F0\u09A4\u09C0\u09AF\u09BC \u09F0\u09C1\u09AA\u09C0,INR,\u09AD\u09BE\u09B0\u09A4\u09C0\u09AF\u09BC \u09B0\u09C1\u09AA\u09BF,\u0F62\u0F92\u0FB1\u0F0B\u0F42\u0F62\u0F0B\u0F66\u0F92\u0F7C\u0F62\u0F0B,\u092D\u093E\u0930\u0924\u0928\u093F \u0930\u0941\u092A\u0940,\uD804\uDD03\uD804\uDD28\uD804\uDD1A\uD804\uDD34\uD804\uDD18\uD804\uDD28\uD804\uDD20\uD804\uDD1A\uD804\uDD34 \uD804\uDD22\uD804\uDD2A\uD804\uDD1B\uD804\uDD28,\u092D\u093E\u0930\u0924\u0940 \u0930\u092A\u0947\u093D,Indian Rupee,\u0AAD\u0ABE\u0AB0\u0AA4\u0AC0\u0AAF \u0AB0\u0AC2\u0AAA\u0ABF\u0AAF\u0ABE,\u092D\u093E\u0930\u0924\u0940\u092F \u0930\u0941\u092A\u092F\u093E,\u0CAD\u0CBE\u0CB0\u0CA4\u0CC0\u0CAF \u0CB0\u0CC2\u0CAA\u0CBE\u0CAF\u0CBF,\u06C1\u0650\u0646\u062F\u064F\u0633\u062A\u0672\u0646\u06CD \u0631\u06C4\u067E\u064E\u06D2,\u0907\u0902\u0921\u093F\u092F\u0928 \u0930\u0942\u092A\u0940,b\u0101rat ti \u1E6Dnk\u0101,\u0D07\u0D28\u0D4D\u0D24\u0D4D\u0D2F\u0D7B \u0D30\u0D42\u0D2A,\u0987\u09A8\u09CD\u09A6\u09BF\u09AF\u09BC\u09BE\u09A8 \u09B0\u09C1\u09AA\u09C0,\u092D\u093E\u0930\u0924\u0940\u092F \u0930\u0942\u092A\u093F\u0901\u092F\u093E,\u0B2D\u0B3E\u0B30\u0B24\u0B40\u0B5F \u0B1F\u0B19\u0B4D\u0B15\u0B3E,\u0A2D\u0A3E\u0A30\u0A24\u0A40 \u0A30\u0A41\u0A2A\u0A07\u0A06,\u092D\u093E\u0930\u0924\u0940\u092F \u0930\u0942\u092A\u094D\u092F\u0915\u092E\u094D,\u1C65\u1C64\u1C67\u1C5A\u1C5B \u1C68\u1C6E\u1C71\u1C5F\u1C5C \u1C74\u1C5F\u1C60\u1C5F,\u0939\u093F\u0902\u0926\u0941\u0938\u094D\u0924\u093E\u0928\u0940 \u0930\u0941\u092A\u092F\u094B,\u0B87\u0BA8\u0BCD\u0BA4\u0BBF\u0BAF \u0BB0\u0BC2\u0BAA\u0BBE\u0BAF\u0BCD,\u0C2D\u0C3E\u0C30\u0C24\u0C26\u0C47\u0C36 \u0C30\u0C42\u0C2A\u0C3E\u0C2F\u0C3F,\u0628\u06BE\u0627\u0631\u062A\u06CC \u0631\u0648\u067E\u06CC\u06C1,\u092D\u093E\u0930\u0924\u0947 \u0926\u093E \u0930\u0941\u092A\u092F\u093E",
       "chinese_name": "\u5370\u5EA6\u5362\u6BD4",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 1310.1205,
@@ -488,7 +488,7 @@
       "english_name": "Iraqi Dinar",
       "native_name": "\u062F\u064A\u0646\u0627\u0631 \u0639\u0631\u0627\u0642\u064A,IQD",
       "chinese_name": "\u4F0A\u62C9\u514B\u7B2C\u7EB3\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 1313000,
@@ -496,15 +496,15 @@
       "english_name": "Iranian Rial",
       "native_name": "IRR,\u0631\u06CC\u0627\u0644 \u0627\u06CC\u0631\u0627\u0646,\u0627\u06CC\u0631\u0627\u0646 \u0631\u06CC\u0627\u0644",
       "chinese_name": "\u4F0A\u6717\u91CC\u4E9A\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 122.37,
+      "rate": 122.41,
       "currency_code": "ISK",
       "english_name": "Icelandic Kr\u00F3na",
       "native_name": "\u00EDslensk kr\u00F3na",
       "chinese_name": "\u51B0\u5C9B\u514B\u6717",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 158.111295,
@@ -512,7 +512,7 @@
       "english_name": "Jamaican Dollar",
       "native_name": "Jamaican Dollar",
       "chinese_name": "\u7259\u4E70\u52A0\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 0.709,
@@ -520,15 +520,15 @@
       "english_name": "Jordanian Dinar",
       "native_name": "\u062F\u064A\u0646\u0627\u0631 \u0623\u0631\u062F\u0646\u064A",
       "chinese_name": "\u7EA6\u65E6\u7B2C\u7EB3\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 156.3595625,
+      "rate": 156.29313158,
       "currency_code": "JPY",
       "english_name": "Japanese Yen",
       "native_name": "\u65E5\u672C\u5186",
       "chinese_name": "\u65E5\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 129.2,
@@ -536,7 +536,7 @@
       "english_name": "Kenyan Shilling",
       "native_name": "Shilingi ya Kenya,Kenyan Shilling,Silingi ya Kenya,Ciringi ya Kenya,Silingitab ya Kenya,Siling mar Kenya,Sirinji ya Kenya,Iropiyian\u00ED e Kenya,KES,Njilingi eel Kenya,Shilingka Kenya,Ango\u2019otol lok\u2019 Kenya",
       "chinese_name": "\u80AF\u5C3C\u4E9A\u5148\u4EE4",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 87.4205,
@@ -544,7 +544,7 @@
       "english_name": "Kyrgystani Som",
       "native_name": "\u041A\u044B\u0440\u0433\u044B\u0437\u0441\u0442\u0430\u043D \u0441\u043E\u043C\u0443,\u043A\u0438\u0440\u0433\u0438\u0437\u0441\u043A\u0438\u0439 \u0441\u043E\u043C",
       "chinese_name": "\u5409\u5C14\u5409\u65AF\u65AF\u5766\u7D22\u59C6",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 4021.96365,
@@ -552,7 +552,7 @@
       "english_name": "Cambodian Riel",
       "native_name": "\u179A\u17C0\u179B\u200B\u1780\u1798\u17D2\u1796\u17BB\u1787\u17B6",
       "chinese_name": "\u67EC\u57D4\u5BE8\u745E\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 419.50006,
@@ -560,7 +560,7 @@
       "english_name": "Comorian Franc",
       "native_name": "\u0641\u0631\u0646\u0643 \u062C\u0632\u0631 \u0627\u0644\u0642\u0645\u0631,franc comorien",
       "chinese_name": "\u79D1\u6469\u7F57\u6CD5\u90CE",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 900,
@@ -568,23 +568,23 @@
       "english_name": "North Korean Won",
       "native_name": "\uC870\uC120 \uBBFC\uC8FC\uC8FC\uC758 \uC778\uBBFC \uACF5\uD654\uAD6D \uC6D0",
       "chinese_name": "\u671D\u9C9C\u5706",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 1451.77708,
+      "rate": 1450.584537,
       "currency_code": "KRW",
       "english_name": "South Korean Won",
       "native_name": "\uB300\uD55C\uBBFC\uAD6D \uC6D0",
       "chinese_name": "\u97E9\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 0.307881,
+      "rate": 0.307773,
       "currency_code": "KWD",
       "english_name": "Kuwaiti Dinar",
       "native_name": "\u062F\u064A\u0646\u0627\u0631 \u0643\u0648\u064A\u062A\u064A",
       "chinese_name": "\u79D1\u5A01\u7279\u7B2C\u7EB3\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 0.83356,
@@ -592,7 +592,7 @@
       "english_name": "Cayman Islands Dollar",
       "native_name": "Cayman Islands Dollar",
       "chinese_name": "\u5F00\u66FC\u7FA4\u5C9B\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 463.200948,
@@ -600,7 +600,7 @@
       "english_name": "Kazakhstani Tenge",
       "native_name": "\u049A\u0430\u0437\u0430\u049B\u0441\u0442\u0430\u043D \u0442\u0435\u04A3\u0433\u0435\u0441\u0456,\u043A\u0430\u0437\u0430\u0445\u0441\u043A\u0438\u0439 \u0442\u0435\u043D\u0433\u0435",
       "chinese_name": "\u54C8\u8428\u514B\u65AF\u5766\u575A\u6208",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 21972.783729,
@@ -608,7 +608,7 @@
       "english_name": "Laotian Kip",
       "native_name": "\u0EA5\u0EB2\u0EA7 \u0E81\u0EB5\u0E9A",
       "chinese_name": "\u8001\u631D\u57FA\u666E",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 89526.788262,
@@ -616,7 +616,7 @@
       "english_name": "Lebanese Pound",
       "native_name": "\u062C\u0646\u064A\u0647 \u0644\u0628\u0646\u0627\u0646\u064A",
       "chinese_name": "\u9ECE\u5DF4\u5AE9\u9551",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 320.221236,
@@ -624,7 +624,7 @@
       "english_name": "Sri Lankan Rupee",
       "native_name": "\u0DC1\u0DCA\u200D\u0DBB\u0DD3 \u0DBD\u0D82\u0D9A\u0DCF \u0DBB\u0DD4\u0DB4\u0DD2\u0DBA\u0DBD,\u0B87\u0BB2\u0B99\u0BCD\u0B95\u0BC8 \u0BB0\u0BC2\u0BAA\u0BBE\u0BAF\u0BCD",
       "chinese_name": "\u65AF\u91CC\u5170\u5361\u5362\u6BD4",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 183.570894,
@@ -632,7 +632,7 @@
       "english_name": "Liberian Dollar",
       "native_name": "Liberian Dollar,\uD83A\uDD01\uD83A\uDD22\uD83A\uDD24\uD83A\uDD22 \uD83A\uDD02\uD83A\uDD2D\uD83A\uDD26\uD83A\uDD2B\uD83A\uDD2A\uD83A\uDD2D\uD83A\uDD34\uD83A\uDD22\uD83A\uDD32\uD83A\uDD33\uD83A\uDD2E,Dolaar Liberiyaa,Laibhiya Dala,\uA55E\uA524\uA52B\uA569 \uA55C\uA55E\uA54C",
       "chinese_name": "\u5229\u6BD4\u91CC\u4E9A\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 6.351692,
@@ -640,7 +640,7 @@
       "english_name": "Libyan Dinar",
       "native_name": "\u062F\u064A\u0646\u0627\u0631 \u0644\u064A\u0628\u064A",
       "chinese_name": "\u5229\u6BD4\u4E9A\u7B2C\u7EB3\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 9.190029,
@@ -648,15 +648,15 @@
       "english_name": "Moroccan Dirham",
       "native_name": "\u062F\u0631\u0647\u0645 \u0645\u063A\u0631\u0628\u064A,dirham marocain,adrim n lm\u0263rib,\u2D30\u2D37\u2D54\u2D49\u2D4E \u2D4F \u2D4D\u2D4E\u2D56\u2D54\u2D49\u2D31,Derhem Ume\u1E5B\u1E5Buki",
       "chinese_name": "\u6469\u6D1B\u54E5\u8FEA\u62C9\u59C6",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 17.189607,
+      "rate": 17.204394,
       "currency_code": "MDL",
       "english_name": "Moldovan Leu",
       "native_name": "leu moldovenesc,\u043C\u043E\u043B\u0434\u0430\u0432\u0441\u043A\u0438\u0439 \u043B\u0435\u0439",
       "chinese_name": "\u6469\u5C14\u591A\u74E6\u5217\u4F0A",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 4181.121069,
@@ -664,15 +664,15 @@
       "english_name": "Malagasy Ariary",
       "native_name": "Malagasy Ariary,ariary malgache,Ariary",
       "chinese_name": "\u9A6C\u8FBE\u52A0\u65AF\u52A0\u963F\u91CC\u4E9A\u91CC",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 52.459586,
+      "rate": 52.456663,
       "currency_code": "MKD",
       "english_name": "Macedonian Denar",
       "native_name": "\u041C\u0430\u043A\u0435\u0434\u043E\u043D\u0441\u043A\u0438 \u0434\u0435\u043D\u0430\u0440,Denari maqedonas",
       "chinese_name": "\u5317\u9A6C\u5176\u987F\u7B2C\u7EB3\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 2099.81,
@@ -680,7 +680,7 @@
       "english_name": "Myanmar Kyat",
       "native_name": "\u1019\u103C\u1014\u103A\u1019\u102C \u1000\u103B\u1015\u103A",
       "chinese_name": "\u7F05\u7538\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 3569.47,
@@ -688,7 +688,7 @@
       "english_name": "Mongolian Tugrik",
       "native_name": "\u041C\u043E\u043D\u0433\u043E\u043B \u0442\u04E9\u0433\u0440\u04E9\u0433",
       "chinese_name": "\u8499\u53E4\u56FE\u683C\u91CC\u514B",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 8.073157,
@@ -696,7 +696,7 @@
       "english_name": "Macanese Pataca",
       "native_name": "Macanese Pataca,pataca macaense,\u6FB3\u95E8\u5E01,\u6FB3\u9580\u5143",
       "chinese_name": "\u6FB3\u95E8\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 40.050902,
@@ -704,15 +704,15 @@
       "english_name": "Mauritanian Ouguiya",
       "native_name": "\u0623\u0648\u0642\u064A\u0629 \u0645\u0648\u0631\u064A\u062A\u0627\u0646\u064A\u0629,\uD83A\uDD13\uD83A\uDD3A\uD83A\uDD2D\uD83A\uDD34\uD83A\uDD22 \uD83A\uDD03\uD83A\uDD2E\uD83A\uDD2A\uD83A\uDD2D\uD83A\uDD3C\uD83A\uDD22\uD83A\uDD32\uD83A\uDD2D\uD83A\uDD34\uD83A\uDD22\uD83A\uDD32\uD83A\uDD33\uD83A\uDD2E,Ugiyya Muritani,ouguiya mauritanien",
       "chinese_name": "\u6BDB\u91CC\u5854\u5C3C\u4E9A\u4E4C\u5409\u4E9A",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 46.739998,
+      "rate": 46.720004,
       "currency_code": "MUR",
       "english_name": "Mauritian Rupee",
       "native_name": "Mauritian Rupee,roupie mauricienne,roupi morisien",
       "chinese_name": "\u6BDB\u91CC\u6C42\u65AF\u5362\u6BD4",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 15.455,
@@ -720,7 +720,7 @@
       "english_name": "Maldivian Rufiyaa",
       "native_name": "Maldivian Rufiyaa",
       "chinese_name": "\u9A6C\u5C14\u4EE3\u592B\u62C9\u83F2\u4E9A",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 1740.03163,
@@ -728,23 +728,23 @@
       "english_name": "Malawian Kwacha",
       "native_name": "Malawian Kwacha",
       "chinese_name": "\u9A6C\u62C9\u7EF4\u514B\u74E6\u67E5",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 17.245322,
+      "rate": 17.246402,
       "currency_code": "MXN",
       "english_name": "Mexican Peso",
       "native_name": "peso mexicano",
       "chinese_name": "\u58A8\u897F\u54E5\u6BD4\u7D22",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 3.909,
+      "rate": 3.9105,
       "currency_code": "MYR",
       "english_name": "Malaysian Ringgit",
       "native_name": "Malaysian Ringgit,Ringgit Malaysia,\u0BAE\u0BB2\u0BC7\u0BB7\u0BBF\u0BAF\u0BA9\u0BCD \u0BB0\u0BBF\u0B99\u0BCD\u0B95\u0BBF\u0B9F\u0BCD",
       "chinese_name": "\u9A6C\u6765\u897F\u4E9A\u6797\u5409\u7279",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 63.909994,
@@ -752,7 +752,7 @@
       "english_name": "Mozambican Metical",
       "native_name": "MZN,metical mo\u00E7ambicano,Metical de Mo\u00E7ambique",
       "chinese_name": "\u83AB\u6851\u6BD4\u514B\u6885\u8482\u5361\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 16.305475,
@@ -760,15 +760,15 @@
       "english_name": "Namibian Dollar",
       "native_name": "Namibiese dollar,Namibian Dollar,Namibia Dollari",
       "chinese_name": "\u7EB3\u7C73\u6BD4\u4E9A\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 1360.53,
+      "rate": 1361.85,
       "currency_code": "NGN",
       "english_name": "Nigerian Naira",
       "native_name": "Nigerian Naira,\uD83A\uDD10\uD83A\uDD22\uD83A\uDD34\uD83A\uDD2A\uD83A\uDD22 \uD83A\uDD10\uD83A\uDD22\uD83A\uDD36\uD83A\uDD2D\uD83A\uDD2A\uD83A\uDD22\uD83A\uDD34\uD83A\uDD22\uD83A\uDD32\uD83A\uDD33\uD83A\uDD2E,Nayraa Nijeriyaa,Nairar Najeriya,Na\u1ECBra,Naij\u00EDri\u00E1 Na\u00EDra,N\u00E1\u00EDr\u00E0 N\u00E0\u00ECj\u00EDr\u00ED\u00E0",
       "chinese_name": "\u5C3C\u65E5\u5229\u4E9A\u5948\u62C9",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 36.925279,
@@ -776,15 +776,15 @@
       "english_name": "Nicaraguan C\u00F3rdoba",
       "native_name": "c\u00F3rdoba nicarag\u00FCense",
       "chinese_name": "\u5C3C\u52A0\u62C9\u74DC\u79D1\u591A\u5DF4",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 9.306295,
+      "rate": 9.30238,
       "currency_code": "NOK",
       "english_name": "Norwegian Krone",
       "native_name": "norske kroner,norgga kruvdno",
       "chinese_name": "\u632A\u5A01\u514B\u6717",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 151.91263,
@@ -792,23 +792,23 @@
       "english_name": "Nepalese Rupee",
       "native_name": "\u0928\u0947\u092A\u093E\u0932\u0940 \u0930\u0942\u092A\u0948\u092F\u093E\u0901",
       "chinese_name": "\u5C3C\u6CCA\u5C14\u5362\u6BD4",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 1.677374,
+      "rate": 1.678076,
       "currency_code": "NZD",
       "english_name": "New Zealand Dollar",
       "native_name": "New Zealand Dollar,T\u0101ra o Aotearoa",
       "chinese_name": "\u65B0\u897F\u5170\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 0.384497,
+      "rate": 0.3845,
       "currency_code": "OMR",
       "english_name": "Omani Rial",
       "native_name": "\u0631\u064A\u0627\u0644 \u0639\u0645\u0627\u0646\u064A",
       "chinese_name": "\u963F\u66FC\u91CC\u4E9A\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 1,
@@ -816,7 +816,7 @@
       "english_name": "Panamanian Balboa",
       "native_name": "balboa paname\u00F1o",
       "chinese_name": "\u5DF4\u62FF\u9A6C\u5DF4\u6CE2\u4E9A",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 3.474077,
@@ -824,7 +824,7 @@
       "english_name": "Peruvian Sol",
       "native_name": "sol peruano,Sol Peruano",
       "chinese_name": "\u79D8\u9C81\u7D22\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 4.343026,
@@ -832,15 +832,15 @@
       "english_name": "Papua New Guinean Kina",
       "native_name": "Papua New Guinean Kina",
       "chinese_name": "\u5DF4\u5E03\u4E9A\u65B0\u51E0\u5185\u4E9A\u57FA\u90A3",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 60.768497,
+      "rate": 60.589496,
       "currency_code": "PHP",
       "english_name": "Philippine Peso",
       "native_name": "Philippine Peso,peso filipino,Piso ng Pilipinas",
       "chinese_name": "\u83F2\u5F8B\u5BBE\u6BD4\u7D22",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 278.733176,
@@ -848,15 +848,15 @@
       "english_name": "Pakistani Rupee",
       "native_name": "Pakistani Rupee,\u0631\u0648\u067E\u0626\u06CC\u06C1,\u067E\u0627\u06A9\u0633\u062A\u0627\u0646\u06CD \u06A9\u0644\u062F\u0627\u0631\u0647,\u067E\u0627\u06AA\u0633\u062A\u0627\u0646\u064A \u0631\u067E\u064A,\u067E\u0627\u06A9\u0633\u062A\u0627\u0646\u06CC \u0631\u0648\u067E\u06CC\u06C1",
       "chinese_name": "\u5DF4\u57FA\u65AF\u5766\u5362\u6BD4",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 3.60155,
+      "rate": 3.602775,
       "currency_code": "PLN",
       "english_name": "Polish Zloty",
       "native_name": "z\u0142oty polski,PLN",
       "chinese_name": "\u6CE2\u5170\u5179\u7F57\u63D0",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 6141.369716,
@@ -864,7 +864,7 @@
       "english_name": "Paraguayan Guarani",
       "native_name": "guaran\u00ED paraguayo",
       "chinese_name": "\u5DF4\u62C9\u572D\u74DC\u62C9\u5C3C",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 3.644517,
@@ -872,31 +872,31 @@
       "english_name": "Qatari Riyal",
       "native_name": "\u0631\u064A\u0627\u0644 \u0642\u0637\u0631\u064A",
       "chinese_name": "\u5361\u5854\u5C14\u91CC\u4E9A\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 4.4808,
+      "rate": 4.4822,
       "currency_code": "RON",
       "english_name": "Romanian Leu",
       "native_name": "leu rom\u00E2nesc",
       "chinese_name": "\u7F57\u9A6C\u5C3C\u4E9A\u5217\u4F0A",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 99.891,
+      "rate": 99.923,
       "currency_code": "RSD",
       "english_name": "Serbian Dinar",
       "native_name": "\u0441\u0440\u043F\u0441\u043A\u0438 \u0434\u0438\u043D\u0430\u0440,srpski dinar",
       "chinese_name": "\u585E\u5C14\u7EF4\u4E9A\u7B2C\u7EB3\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 74.752214,
+      "rate": 74.799392,
       "currency_code": "RUB",
       "english_name": "Russian Ruble",
       "native_name": "\u0420\u043E\u0441\u0441\u0438\u0439\u043D \u0441\u043E\u043C,\u0420\u0430\u04AB\u04AB\u0435\u0439 \u0442\u0435\u043D\u043A\u04D7,\u0421\u043E\u043C,\u0440\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0438\u0439 \u0440\u0443\u0431\u043B\u044C,\u0410\u0440\u0430\u0441\u0441\u044B\u044B\u0439\u0430 \u0441\u043E\u043B\u043A\u0443\u043E\u0431\u0430\u0439\u0430,\u0420\u043E\u0441\u0441\u0438\u044F \u0441\u0443\u043C\u044B",
       "chinese_name": "\u4FC4\u7F57\u65AF\u5362\u5E03",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 1467.395192,
@@ -904,7 +904,7 @@
       "english_name": "Rwandan Franc",
       "native_name": "Rwandan Franc,franc rwandais,RWF",
       "chinese_name": "\u5362\u65FA\u8FBE\u6CD5\u90CE",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 3.758223,
@@ -912,7 +912,7 @@
       "english_name": "Saudi Riyal",
       "native_name": "\u0631\u064A\u0627\u0644 \u0633\u0639\u0648\u062F\u064A",
       "chinese_name": "\u6C99\u7279\u91CC\u4E9A\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 8.019432,
@@ -920,15 +920,15 @@
       "english_name": "Solomon Islands Dollar",
       "native_name": "Solomon Islands Dollar",
       "chinese_name": "\u6240\u7F57\u95E8\u7FA4\u5C9B\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 13.934009,
+      "rate": 14.203646,
       "currency_code": "SCR",
       "english_name": "Seychellois Rupee",
       "native_name": "Seychellois Rupee,roupie des Seychelles",
       "chinese_name": "\u585E\u820C\u5C14\u5362\u6BD4",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 600.5,
@@ -936,31 +936,31 @@
       "english_name": "Sudanese Pound",
       "native_name": "\u062C\u0646\u064A\u0647 \u0633\u0648\u062F\u0627\u0646\u064A,Sudanese Pound",
       "chinese_name": "\u82CF\u4E39\u9551",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 9.242883,
+      "rate": 9.240422,
       "currency_code": "SEK",
       "english_name": "Swedish Krona",
       "native_name": "Swedish Krona,ruo\u0167\u0167a kruvdno,svensk krona",
       "chinese_name": "\u745E\u5178\u514B\u6717",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 1.267723,
+      "rate": 1.267277,
       "currency_code": "SGD",
       "english_name": "Singapore Dollar",
       "native_name": "Singapore Dollar,Dolar Singapura,\u0B9A\u0BBF\u0B99\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0BC2\u0BB0\u0BCD \u0B9F\u0BBE\u0BB2\u0BB0\u0BCD,\u65B0\u52A0\u5761\u5143",
       "chinese_name": "\u65B0\u52A0\u5761\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 0.735429,
+      "rate": 0.735285,
       "currency_code": "SHP",
       "english_name": "St. Helena Pound",
       "native_name": "St Helena Pound",
       "chinese_name": "\u5723\u8D6B\u52D2\u62FF\u9551",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 573.456719,
@@ -968,7 +968,7 @@
       "english_name": "Somali Shilling",
       "native_name": "\u0634\u0644\u0646 \u0635\u0648\u0645\u0627\u0644\u064A,Shilingka Soomaaliya",
       "chinese_name": "\u7D22\u9A6C\u91CC\u5148\u4EE4",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 37.411,
@@ -976,7 +976,7 @@
       "english_name": "Surinamese Dollar",
       "native_name": "Surinaamse dollar",
       "chinese_name": "\u82CF\u91CC\u5357\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 130.26,
@@ -984,7 +984,7 @@
       "english_name": "South Sudanese Pound",
       "native_name": "\u062C\u0646\u064A\u0647 \u062C\u0646\u0648\u0628 \u0627\u0644\u0633\u0648\u062F\u0627\u0646,South Sudanese Pound,SSP",
       "chinese_name": "\u5357\u82CF\u4E39\u9551",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 20.854614,
@@ -992,7 +992,7 @@
       "english_name": "S\u00E3o Tom\u00E9 \u0026 Pr\u00EDncipe Dobra",
       "native_name": "dobra de S\u00E3o Tom\u00E9 e Pr\u00EDncipe",
       "chinese_name": "\u5723\u591A\u7F8E\u591A\u5E03\u62C9",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 13002,
@@ -1000,7 +1000,7 @@
       "english_name": "Syrian Pound",
       "native_name": "\u0644\u064A\u0631\u0629 \u0633\u0648\u0631\u064A\u0629,livre syrienne,SYP",
       "chinese_name": "\u53D9\u5229\u4E9A\u9551",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 16.353267,
@@ -1008,15 +1008,15 @@
       "english_name": "Swazi Lilangeni",
       "native_name": "Swazi Lilangeni",
       "chinese_name": "\u65AF\u5A01\u58EB\u5170\u91CC\u5170\u5409\u5C3C",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 32.31774,
+      "rate": 32.241,
       "currency_code": "THB",
       "english_name": "Thai Baht",
       "native_name": "\u0E1A\u0E32\u0E17",
       "chinese_name": "\u6CF0\u94E2",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 9.347679,
@@ -1024,7 +1024,7 @@
       "english_name": "Tajikistani Somoni",
       "native_name": "\u0421\u043E\u043C\u043E\u043D\u04E3",
       "chinese_name": "\u5854\u5409\u514B\u65AF\u5766\u7D22\u83AB\u5C3C",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 3.505,
@@ -1032,7 +1032,7 @@
       "english_name": "Turkmenistani Manat",
       "native_name": "T\u00FCrkmen manady",
       "chinese_name": "\u571F\u5E93\u66FC\u65AF\u5766\u9A6C\u7EB3\u7279",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 2.879271,
@@ -1040,7 +1040,7 @@
       "english_name": "Tunisian Dinar",
       "native_name": "\u062F\u064A\u0646\u0627\u0631 \u062A\u0648\u0646\u0633\u064A,dinar tunisien",
       "chinese_name": "\u7A81\u5C3C\u65AF\u7B2C\u7EB3\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 2.40776,
@@ -1048,15 +1048,15 @@
       "english_name": "Tongan Pa\u02BBanga",
       "native_name": "Tongan Pa\u02BBanga,Pa\u02BBanga fakatonga",
       "chinese_name": "\u6C64\u52A0\u6F58\u52A0",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 45.233899,
+      "rate": 45.247535,
       "currency_code": "TRY",
       "english_name": "Turkish Lira",
       "native_name": "l\u00EErey\u00EA tirk\u00EE,T\u00FCrk liras\u0131",
       "chinese_name": "\u571F\u8033\u5176\u91CC\u62C9",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 6.778611,
@@ -1064,23 +1064,23 @@
       "english_name": "Trinidad \u0026 Tobago Dollar",
       "native_name": "Trinidad \u0026 Tobago Dollar",
       "chinese_name": "\u7279\u7ACB\u5C3C\u8FBE\u548C\u591A\u5DF4\u54E5\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 31.338799,
+      "rate": 31.364651,
       "currency_code": "TWD",
       "english_name": "New Taiwan Dollar",
       "native_name": "\u65B0\u53F0\u5E63",
       "chinese_name": "\u65B0\u53F0\u5E01",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 2592.183,
+      "rate": 2595.933,
       "currency_code": "TZS",
       "english_name": "Tanzanian Shilling",
       "native_name": "shilingi ya Tandhania,Shilingi ya Hutanzania,Tanzanian Shilling,Shilingi ya Tanzania,shilingi ya Tanzania,Shil\u00EDingi ya Taansan\u00EDa,Iropiyian\u00ED e Tanzania,heleri sa Tanzania,Ihela ya Tansaniya",
       "chinese_name": "\u5766\u6851\u5C3C\u4E9A\u5148\u4EE4",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 43.996493,
@@ -1088,7 +1088,7 @@
       "english_name": "Ukrainian Hryvnia",
       "native_name": "\u0443\u043A\u0440\u0430\u0438\u043D\u0441\u043A\u0430\u044F \u0433\u0440\u0438\u0432\u043D\u0430,\u0443\u043A\u0440\u0430\u0457\u043D\u0441\u044C\u043A\u0430 \u0433\u0440\u0438\u0432\u043D\u044F,UAH",
       "chinese_name": "\u4E4C\u514B\u5170\u683C\u91CC\u592B\u7EB3",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 3761.355715,
@@ -1096,7 +1096,7 @@
       "english_name": "Ugandan Shilling",
       "native_name": "Eshiringi ya Uganda,Ugandan Shilling,Silingi eya Yuganda,Shilingi ya Uganda,Ango\u2019otol lok\u2019 Uganda",
       "chinese_name": "\u4E4C\u5E72\u8FBE\u5148\u4EE4",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 1,
@@ -1104,7 +1104,7 @@
       "english_name": "US Dollar",
       "native_name": "US \u13A0\u13D5\u13B3,US Dollar,d\u00F3lar estadounidense,USD,Dola yase Amelika,Amerikaanse dollar,d\u00F3lar dos Estados Unidos,D\u00F3lar Americano,Dora re Amerika",
       "chinese_name": "\u7F8E\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 40.19329,
@@ -1112,7 +1112,7 @@
       "english_name": "Uruguayan Peso",
       "native_name": "peso uruguayo",
       "chinese_name": "\u4E4C\u62C9\u572D\u6BD4\u7D22",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 12076.899022,
@@ -1120,7 +1120,7 @@
       "english_name": "Uzbekistani Som",
       "native_name": "\u040E\u0437\u0431\u0435\u043A\u0438\u0441\u0442\u043E\u043D \u0441\u045E\u043C,O\u2018zbekiston so\u2018mi",
       "chinese_name": "\u4E4C\u5179\u522B\u514B\u65AF\u5766\u82CF\u59C6",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 493.496471,
@@ -1128,15 +1128,15 @@
       "english_name": "Venezuelan Bol\u00EDvar",
       "native_name": "bol\u00EDvar soberano,Buriwari Wenesuerawara",
       "chinese_name": "\u59D4\u5185\u745E\u62C9\u73BB\u5229\u74E6\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 26311.5,
+      "rate": 26312.327781,
       "currency_code": "VND",
       "english_name": "Vietnamese Dong",
       "native_name": "\u0110\u1ED3ng Vi\u1EC7t Nam",
       "chinese_name": "\u8D8A\u5357\u76FE",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 119.389,
@@ -1144,7 +1144,7 @@
       "english_name": "Vanuatu Vatu",
       "native_name": "Vanuatu Vatu,vatu vanuatuan",
       "chinese_name": "\u74E6\u52AA\u963F\u56FE\u74E6\u56FE",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 2.74422,
@@ -1152,15 +1152,15 @@
       "english_name": "Samoan Tala",
       "native_name": "Samoan Tala",
       "chinese_name": "\u8428\u6469\u4E9A\u5854\u62C9",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 558.21636,
+      "rate": 558.352521,
       "currency_code": "XAF",
       "english_name": "Central African CFA Franc",
       "native_name": "CFA F\u00E0l\u00E2\u014B BEAC,\u0641\u0631\u0646\u0643 \u0648\u0633\u0637 \u0623\u0641\u0631\u064A\u0642\u064A,Fr\u01CE\u014B CFA (BEAC),XAF,Central African CFA Franc,franco CFA de \u00C1frica Central,F\u0259l\u00E1\u014B CFA (BEAC),\uD83A\uDD0A\uD83A\uDD22\uD83A\uDD2A\uD83A\uDD22\uD83A\uDD32 \uD83A\uDD1A\uD83A\uDD35\uD83A\uDD26\uD83A\uDD2E\uD83A\uDD45\uD83A\uDD2A\uD83A\uDD2D \uD83A\uDD00\uD83A\uDD2C\uD83A\uDD2A\uD83A\uDD2D\uD83A\uDD33\uD83A\uDD2D\uD83A\uDD32\uD83A\uDD33\uD83A\uDD2E,Mbuu\u0257i Seefaa BEAC,franc CFA (BEAC),F\u025Bl\u00E2\u014B,Franc CFA,fr\u00E1\u014B,Fal\u00E1nga CFA BEAC,shir\u00E8,solai BEAC,Fra\u014B CFA BEAC,fel\u00E1\u014B CFA,franco CFA (BEAC),far\u00E2nga CFA (BEAC)",
       "chinese_name": "\u4E2D\u975E\u6CD5\u90CE",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 2.70255,
@@ -1168,23 +1168,23 @@
       "english_name": "East Caribbean Dollar",
       "native_name": "East Caribbean Dollar",
       "chinese_name": "\u4E1C\u52A0\u52D2\u6BD4\u5143",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 558.21636,
+      "rate": 558.352521,
       "currency_code": "XOF",
       "english_name": "West African CFA Franc",
       "native_name": "Gar\u0269\u0256ont\u01DDna g\u0269te\u014Bshilela\u014B kas\u025B\u025Bfa,sefa Fra\u014B (BCEAO),CFA Fra\u014B (BCEAO),seefa yati BCEAO,\u0263eto\u0256ofe afrikaga CFA franc BCEAO,\uD83A\uDD0A\uD83A\uDD22\uD83A\uDD2A\uD83A\uDD22\uD83A\uDD32 \uD83A\uDD05\uD83A\uDD0A\uD83A\uDD00 \uD83A\uDD16\uD83A\uDD2D\uD83A\uDD45\uD83A\uDD2A\uD83A\uDD32\uD83A\uDD22\uD83A\uDD44\uD83A\uDD32\uD83A\uDD3A\uD83A\uDD2B \uD83A\uDD00\uD83A\uDD2C\uD83A\uDD2A\uD83A\uDD2D\uD83A\uDD33\uD83A\uDD22,Mbuu\u0257u Seefaa BCEAO,franc CFA (BCEAO),Ku\u0257in Sefa na Afirka Ta Yamma,franco CFA (BCEAO),Franc CFA bu Afrik Sowwu-jant,Farans\u00EC \u00ECw\u0254\u0300-oor\u00F9n Af\u00EDr\u00EDk\u00E0",
       "chinese_name": "\u897F\u975E\u6CD5\u90CE",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 101.550758,
+      "rate": 101.575529,
       "currency_code": "XPF",
       "english_name": "CFP Franc",
       "native_name": "franc CFP",
       "chinese_name": "\u592A\u5E73\u6D0B\u6CD5\u90CE",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 238.625037,
@@ -1192,15 +1192,15 @@
       "english_name": "Yemeni Rial",
       "native_name": "\u0631\u064A\u0627\u0644 \u064A\u0645\u0646\u064A",
       "chinese_name": "\u4E5F\u95E8\u91CC\u4E9A\u5C14",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
-      "rate": 16.386199,
+      "rate": 16.353567,
       "currency_code": "ZAR",
       "english_name": "South African Rand",
       "native_name": "Suid-Afrikaanse rand,South African Rand,IRandi yaseMzantsi Afrika,i-South African Rand",
       "chinese_name": "\u5357\u975E\u5170\u7279",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     },
     {
       "rate": 18.991238,
@@ -1208,7 +1208,7 @@
       "english_name": "Zambian Kwacha",
       "native_name": "ZMW,Zambian Kwacha",
       "chinese_name": "\u8D5E\u6BD4\u4E9A\u514B\u74E6\u67E5",
-      "updated_at": 1778130000000
+      "updated_at": 1778137200000
     }
   ]
 }
